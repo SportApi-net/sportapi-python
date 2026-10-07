@@ -1,0 +1,2346 @@
+{
+  "status": 1,
+  "page": "/v1/menu",
+  "body": [
+    {
+      "id": 1,
+      "name": "Football",
+      "counter": 56,
+      "sub": [
+        {
+          "id": 208,
+          "name": "Sri Lanka",
+          "counter": 1,
+          "sport_id": 1,
+          "sub": [
+            {
+              "id": 2217395,
+              "name": "Sri Lanka. Super League",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 208
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Russia",
+          "counter": 2,
+          "sport_id": 1,
+          "sub": [
+            {
+              "id": 2826726,
+              "name": "Russia. Youth Championship. Division B",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 1
+            },
+            {
+              "id": 2851639,
+              "name": "Russia. Youth Championship. Division 1. Women",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 1
+            }
+          ]
+        },
+        {
+          "id": 225,
+          "name": "World",
+          "counter": 27,
+          "sport_id": 1,
+          "sub": [
+            {
+              "id": 67559,
+              "name": "Club Friendlies",
+              "counter": 3,
+              "sport_id": 1,
+              "countryId": 225
+            },
+            {
+              "id": 2800655,
+              "name": "Regional League. W",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 225
+            },
+            {
+              "id": 2059891,
+              "name": "Short Football 4x4",
+              "counter": 2,
+              "sport_id": 1,
+              "countryId": 225
+            },
+            {
+              "id": 2056113,
+              "name": "Short Football 5x5",
+              "counter": 2,
+              "sport_id": 1,
+              "countryId": 225
+            },
+            {
+              "id": 2071516,
+              "name": "Student League",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 225
+            },
+            {
+              "id": 2165493,
+              "name": "Student League 2",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 225
+            },
+            {
+              "id": 2055972,
+              "name": "BudnesLiga LFL 5x5",
+              "counter": 2,
+              "sport_id": 1,
+              "countryId": 225
+            },
+            {
+              "id": 2055846,
+              "name": "Division 4x4",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 225
+            },
+            {
+              "id": 2590430,
+              "name": "MLS+",
+              "counter": 2,
+              "sport_id": 1,
+              "countryId": 225
+            },
+            {
+              "id": 2390706,
+              "name": "Short Football D1",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 225
+            },
+            {
+              "id": 2130174,
+              "name": "Short Football 2x2 L2",
+              "counter": 2,
+              "sport_id": 1,
+              "countryId": 225
+            },
+            {
+              "id": 2101142,
+              "name": "",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 225
+            },
+            {
+              "id": 2316222,
+              "name": "Short Football 3x3 L2",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 225
+            },
+            {
+              "id": 2055906,
+              "name": "Short Football 2x2",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 225
+            },
+            {
+              "id": 2486097,
+              "name": "Short Football 3x3 L1",
+              "counter": 2,
+              "sport_id": 1,
+              "countryId": 225
+            },
+            {
+              "id": 2484323,
+              "name": "Subsoccer",
+              "counter": 2,
+              "sport_id": 1,
+              "countryId": 225
+            },
+            {
+              "id": 2910432,
+              "name": "FIFA 26. Amateur daily league",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 225
+            },
+            {
+              "id": 2498899,
+              "name": "FIFA 23. Volta daily league",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 225
+            }
+          ]
+        },
+        {
+          "id": 226,
+          "name": "Africa",
+          "counter": 2,
+          "sport_id": 1,
+          "sub": [
+            {
+              "id": 2902207,
+              "name": "CECAFA Champions League. Women",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 226
+            },
+            {
+              "id": 2895830,
+              "name": "COSAFA Champions League. Women",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 226
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Ukraine",
+          "counter": 3,
+          "sport_id": 1,
+          "sub": [
+            {
+              "id": 120009,
+              "name": "Ukraine Cup",
+              "counter": 3,
+              "sport_id": 1,
+              "countryId": 2
+            }
+          ]
+        },
+        {
+          "id": 132,
+          "name": "Nigeria",
+          "counter": 1,
+          "sport_id": 1,
+          "sub": [
+            {
+              "id": 2726801,
+              "name": "Nigeria. Community Cup",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 132
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Australia",
+          "counter": 11,
+          "sport_id": 1,
+          "sub": [
+            {
+              "id": 1205475,
+              "name": "Australia. NPL Northern Territory",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 4
+            },
+            {
+              "id": 1025049,
+              "name": "Australia. South Australia. State League",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 4
+            },
+            {
+              "id": 1195579,
+              "name": "Australia. FFSA State League. Division 2",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 4
+            },
+            {
+              "id": 985101,
+              "name": "Australia. Victoria Premier League 1",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 4
+            },
+            {
+              "id": 1151127,
+              "name": "Australia. Victoria Premier League 2",
+              "counter": 2,
+              "sport_id": 1,
+              "countryId": 4
+            },
+            {
+              "id": 2570396,
+              "name": "Australia. New South Wales Premier League 1",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 4
+            },
+            {
+              "id": 981585,
+              "name": "Australia. New South Wales Premier League 2",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 4
+            },
+            {
+              "id": 2870526,
+              "name": "Australia. NPL Victoria. Women",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 4
+            },
+            {
+              "id": 2685094,
+              "name": "Australia. NPL Northern Territory. Reserve League",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 4
+            },
+            {
+              "id": 997925,
+              "name": "Australia. NPL Victorian. Women",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 4
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "Belarus",
+          "counter": 1,
+          "sport_id": 1,
+          "sub": [
+            {
+              "id": 1194719,
+              "name": "Belarus. Division 2",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 22
+            }
+          ]
+        },
+        {
+          "id": 215,
+          "name": "South Korea",
+          "counter": 4,
+          "sport_id": 1,
+          "sub": [
+            {
+              "id": 38937,
+              "name": "South Korea. WK-League",
+              "counter": 4,
+              "sport_id": 1,
+              "countryId": 215
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Angola",
+          "counter": 1,
+          "sport_id": 1,
+          "sub": [
+            {
+              "id": 2738669,
+              "name": "Angola. Liga Bantu",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 9
+            }
+          ]
+        },
+        {
+          "id": 90,
+          "name": "China",
+          "counter": 1,
+          "sport_id": 1,
+          "sub": [
+            {
+              "id": 2924494,
+              "name": "China Championship U20",
+              "counter": 1,
+              "sport_id": 1,
+              "countryId": 90
+            }
+          ]
+        },
+        {
+          "id": 218,
+          "name": "Japan",
+          "counter": 2,
+          "sport_id": 1,
+          "sub": [
+            {
+              "id": 118737,
+              "name": "Japan. J-League",
+              "counter": 2,
+              "sport_id": 1,
+              "countryId": 218
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ice Hockey",
+      "counter": 17,
+      "sub": [
+        {
+          "id": 1,
+          "name": "Russia",
+          "counter": 3,
+          "sport_id": 2,
+          "sub": [
+            {
+              "id": 2125573,
+              "name": "Tula Oblast Governor's Cup",
+              "counter": 1,
+              "sport_id": 2,
+              "countryId": 1
+            },
+            {
+              "id": 2454428,
+              "name": "RHL",
+              "counter": 1,
+              "sport_id": 2,
+              "countryId": 1
+            },
+            {
+              "id": 2298938,
+              "name": "Russia. MNHL",
+              "counter": 1,
+              "sport_id": 2,
+              "countryId": 1
+            }
+          ]
+        },
+        {
+          "id": 225,
+          "name": "World",
+          "counter": 14,
+          "sport_id": 2,
+          "sub": [
+            {
+              "id": 1164241,
+              "name": "Club Friendlies",
+              "counter": 7,
+              "sport_id": 2,
+              "countryId": 225
+            },
+            {
+              "id": 44537,
+              "name": "International Tournament U20",
+              "counter": 1,
+              "sport_id": 2,
+              "countryId": 225
+            },
+            {
+              "id": 44123,
+              "name": "Friendlies U20",
+              "counter": 1,
+              "sport_id": 2,
+              "countryId": 225
+            },
+            {
+              "id": 1931152,
+              "name": "3HL League",
+              "counter": 2,
+              "sport_id": 2,
+              "countryId": 225
+            },
+            {
+              "id": 2009267,
+              "name": "Dream League",
+              "counter": 1,
+              "sport_id": 2,
+              "countryId": 225
+            },
+            {
+              "id": 2824934,
+              "name": "Subhockey",
+              "counter": 1,
+              "sport_id": 2,
+              "countryId": 225
+            },
+            {
+              "id": 2921610,
+              "name": "NHL 26. Blast hockey league",
+              "counter": 1,
+              "sport_id": 2,
+              "countryId": 225
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Basketball",
+      "counter": 25,
+      "sub": [
+        {
+          "id": 1,
+          "name": "Russia",
+          "counter": 4,
+          "sport_id": 3,
+          "sub": [
+            {
+              "id": 2496666,
+              "name": "IPBL. Pro Division",
+              "counter": 2,
+              "sport_id": 3,
+              "countryId": 1
+            },
+            {
+              "id": 2496667,
+              "name": "IPBL. Pro Division. Women",
+              "counter": 2,
+              "sport_id": 3,
+              "countryId": 1
+            }
+          ]
+        },
+        {
+          "id": 225,
+          "name": "World",
+          "counter": 14,
+          "sport_id": 3,
+          "sub": [
+            {
+              "id": 3057172,
+              "name": "FIBA 3x3 Nations League U23",
+              "counter": 1,
+              "sport_id": 3,
+              "countryId": 225
+            },
+            {
+              "id": 1672700,
+              "name": "Premier League",
+              "counter": 1,
+              "sport_id": 3,
+              "countryId": 225
+            },
+            {
+              "id": 2498892,
+              "name": "IPBL. Prime Division",
+              "counter": 2,
+              "sport_id": 3,
+              "countryId": 225
+            },
+            {
+              "id": 2668159,
+              "name": "IPBL. Prime Division. Women",
+              "counter": 1,
+              "sport_id": 3,
+              "countryId": 225
+            },
+            {
+              "id": 2240232,
+              "name": "Premier League A",
+              "counter": 1,
+              "sport_id": 3,
+              "countryId": 225
+            },
+            {
+              "id": 3036243,
+              "name": "IPBL. CAGE",
+              "counter": 1,
+              "sport_id": 3,
+              "countryId": 225
+            },
+            {
+              "id": 2172405,
+              "name": "",
+              "counter": 2,
+              "sport_id": 3,
+              "countryId": 225
+            },
+            {
+              "id": 2790908,
+              "name": "FrostBall",
+              "counter": 1,
+              "sport_id": 3,
+              "countryId": 225
+            },
+            {
+              "id": 2983166,
+              "name": "NBA 2K26. Cyber Euro League",
+              "counter": 2,
+              "sport_id": 3,
+              "countryId": 225
+            },
+            {
+              "id": 2935701,
+              "name": "NBA 2K26. Cyber League",
+              "counter": 2,
+              "sport_id": 3,
+              "countryId": 225
+            }
+          ]
+        },
+        {
+          "id": 179,
+          "name": "Taiwan",
+          "counter": 1,
+          "sport_id": 3,
+          "sub": [
+            {
+              "id": 1062681,
+              "name": "Cup William Jones",
+              "counter": 1,
+              "sport_id": 3,
+              "countryId": 179
+            }
+          ]
+        },
+        {
+          "id": 196,
+          "name": "Philippines",
+          "counter": 2,
+          "sport_id": 3,
+          "sub": [
+            {
+              "id": 1718899,
+              "name": "Philippines. MPBL",
+              "counter": 1,
+              "sport_id": 3,
+              "countryId": 196
+            },
+            {
+              "id": 2860248,
+              "name": "Philippines. NBL Governors Cup",
+              "counter": 1,
+              "sport_id": 3,
+              "countryId": 196
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Australia",
+          "counter": 2,
+          "sport_id": 3,
+          "sub": [
+            {
+              "id": 1889694,
+              "name": "Australia. NBL1",
+              "counter": 2,
+              "sport_id": 3,
+              "countryId": 4
+            }
+          ]
+        },
+        {
+          "id": 90,
+          "name": "China",
+          "counter": 2,
+          "sport_id": 3,
+          "sub": [
+            {
+              "id": 3037224,
+              "name": "China. National Championship. Women",
+              "counter": 1,
+              "sport_id": 3,
+              "countryId": 90
+            },
+            {
+              "id": 2631144,
+              "name": "China. CDBL",
+              "counter": 1,
+              "sport_id": 3,
+              "countryId": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Tennis",
+      "counter": 32,
+      "sub": [
+        {
+          "id": 1,
+          "name": "Russia",
+          "counter": 2,
+          "sport_id": 4,
+          "sub": [
+            {
+              "id": 2683647,
+              "name": "ATT. Moscow. Women",
+              "counter": 1,
+              "sport_id": 4,
+              "countryId": 1
+            },
+            {
+              "id": 2818240,
+              "name": "ATT. Saransk. Women",
+              "counter": 1,
+              "sport_id": 4,
+              "countryId": 1
+            }
+          ]
+        },
+        {
+          "id": 133,
+          "name": "Netherlands",
+          "counter": 3,
+          "sport_id": 4,
+          "sub": [
+            {
+              "id": 2946156,
+              "name": "UTR Pro Tennis Series. Arnhem",
+              "counter": 2,
+              "sport_id": 4,
+              "countryId": 133
+            },
+            {
+              "id": 2946149,
+              "name": "UTR Pro Tennis Series. Arnhem. Women",
+              "counter": 1,
+              "sport_id": 4,
+              "countryId": 133
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Austria",
+          "counter": 3,
+          "sport_id": 4,
+          "sub": [
+            {
+              "id": 3066156,
+              "name": "World Tennis. Mistelbach",
+              "counter": 2,
+              "sport_id": 4,
+              "countryId": 5
+            },
+            {
+              "id": 3066816,
+              "name": "World Tennis. Mistelbach. Doubles",
+              "counter": 1,
+              "sport_id": 4,
+              "countryId": 5
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "name": "United Kingdom",
+          "counter": 2,
+          "sport_id": 4,
+          "sub": [
+            {
+              "id": 3065410,
+              "name": "Challenger. Roehampton",
+              "counter": 1,
+              "sport_id": 4,
+              "countryId": 39
+            },
+            {
+              "id": 3065776,
+              "name": "Challenger. Roehampton. Doubles",
+              "counter": 1,
+              "sport_id": 4,
+              "countryId": 39
+            }
+          ]
+        },
+        {
+          "id": 168,
+          "name": "Serbia",
+          "counter": 3,
+          "sport_id": 4,
+          "sub": [
+            {
+              "id": 3029554,
+              "name": "World Tennis. Kursumlijska Banja",
+              "counter": 1,
+              "sport_id": 4,
+              "countryId": 168
+            },
+            {
+              "id": 3029548,
+              "name": "World Tennis. Kursumlijska Banja. Women",
+              "counter": 2,
+              "sport_id": 4,
+              "countryId": 168
+            }
+          ]
+        },
+        {
+          "id": 204,
+          "name": "Czech Republic",
+          "counter": 2,
+          "sport_id": 4,
+          "sub": [
+            {
+              "id": 53825,
+              "name": "Challenger. Prague",
+              "counter": 1,
+              "sport_id": 4,
+              "countryId": 204
+            },
+            {
+              "id": 3065595,
+              "name": "World Tennis. Prague. Women",
+              "counter": 1,
+              "sport_id": 4,
+              "countryId": 204
+            }
+          ]
+        },
+        {
+          "id": 78,
+          "name": "Spain",
+          "counter": 2,
+          "sport_id": 4,
+          "sub": [
+            {
+              "id": 3066671,
+              "name": "World Tennis. Logrono. Women",
+              "counter": 2,
+              "sport_id": 4,
+              "countryId": 78
+            }
+          ]
+        },
+        {
+          "id": 207,
+          "name": "Sweden",
+          "counter": 4,
+          "sport_id": 4,
+          "sub": [
+            {
+              "id": 3066122,
+              "name": "World Tennis. Bastad",
+              "counter": 4,
+              "sport_id": 4,
+              "countryId": 207
+            }
+          ]
+        },
+        {
+          "id": 147,
+          "name": "Poland",
+          "counter": 2,
+          "sport_id": 4,
+          "sub": [
+            {
+              "id": 3065824,
+              "name": "World Tennis. Krakow. Women",
+              "counter": 1,
+              "sport_id": 4,
+              "countryId": 147
+            },
+            {
+              "id": 3065825,
+              "name": "World Tennis. Krakow. Women. Doubles",
+              "counter": 1,
+              "sport_id": 4,
+              "countryId": 147
+            }
+          ]
+        },
+        {
+          "id": 148,
+          "name": "Portugal",
+          "counter": 2,
+          "sport_id": 4,
+          "sub": [
+            {
+              "id": 3061210,
+              "name": "World Tennis. Idanha-a-Nova",
+              "counter": 2,
+              "sport_id": 4,
+              "countryId": 148
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "name": "Germany",
+          "counter": 1,
+          "sport_id": 4,
+          "sub": [
+            {
+              "id": 3066168,
+              "name": "World Tennis. Erwitte. Women",
+              "counter": 1,
+              "sport_id": 4,
+              "countryId": 53
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "name": "Belgium",
+          "counter": 3,
+          "sport_id": 4,
+          "sub": [
+            {
+              "id": 3065610,
+              "name": "World Tennis. Lambermont",
+              "counter": 1,
+              "sport_id": 4,
+              "countryId": 24
+            },
+            {
+              "id": 3066667,
+              "name": "World Tennis. Lambermont. Doubles",
+              "counter": 1,
+              "sport_id": 4,
+              "countryId": 24
+            },
+            {
+              "id": 3066458,
+              "name": "World Tennis. Wanfercee-Baulet. Women",
+              "counter": 1,
+              "sport_id": 4,
+              "countryId": 24
+            }
+          ]
+        },
+        {
+          "id": 152,
+          "name": "Romania",
+          "counter": 3,
+          "sport_id": 4,
+          "sub": [
+            {
+              "id": 3066472,
+              "name": "World Tennis. Arad",
+              "counter": 1,
+              "sport_id": 4,
+              "countryId": 152
+            },
+            {
+              "id": 3066404,
+              "name": "World Tennis. Bistrita. Women",
+              "counter": 2,
+              "sport_id": 4,
+              "countryId": 152
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Baseball",
+      "counter": 11,
+      "sub": [
+        {
+          "id": 179,
+          "name": "Taiwan",
+          "counter": 1,
+          "sport_id": 5,
+          "sub": [
+            {
+              "id": 1039223,
+              "name": "Chinese Taipei. CPBL",
+              "counter": 1,
+              "sport_id": 5,
+              "countryId": 179
+            }
+          ]
+        },
+        {
+          "id": 215,
+          "name": "South Korea",
+          "counter": 5,
+          "sport_id": 5,
+          "sub": [
+            {
+              "id": 1886142,
+              "name": "KBO. South Korea",
+              "counter": 5,
+              "sport_id": 5,
+              "countryId": 215
+            }
+          ]
+        },
+        {
+          "id": 218,
+          "name": "Japan",
+          "counter": 5,
+          "sport_id": 5,
+          "sub": [
+            {
+              "id": 310679,
+              "name": "Japan. NPB",
+              "counter": 5,
+              "sport_id": 5,
+              "countryId": 218
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Volleyball",
+      "counter": 16,
+      "sub": [
+        {
+          "id": 225,
+          "name": "World",
+          "counter": 10,
+          "sport_id": 6,
+          "sub": [
+            {
+              "id": 1210287,
+              "name": "International Tournament. National Teams",
+              "counter": 1,
+              "sport_id": 6,
+              "countryId": 225
+            },
+            {
+              "id": 1619987,
+              "name": "Friendly Tournament Clubs",
+              "counter": 1,
+              "sport_id": 6,
+              "countryId": 225
+            },
+            {
+              "id": 1633751,
+              "name": "Friendly Club Tournament. Women",
+              "counter": 1,
+              "sport_id": 6,
+              "countryId": 225
+            },
+            {
+              "id": 2960610,
+              "name": "UPVL. Nations League",
+              "counter": 1,
+              "sport_id": 6,
+              "countryId": 225
+            },
+            {
+              "id": 2745086,
+              "name": "VCA. Master Volleyball League",
+              "counter": 2,
+              "sport_id": 6,
+              "countryId": 225
+            },
+            {
+              "id": 2747753,
+              "name": "VCA. Master Volleyball League. Women",
+              "counter": 2,
+              "sport_id": 6,
+              "countryId": 225
+            },
+            {
+              "id": 2579230,
+              "name": "CBV 23. Duo Masters",
+              "counter": 2,
+              "sport_id": 6,
+              "countryId": 225
+            }
+          ]
+        },
+        {
+          "id": 229,
+          "name": "Asia",
+          "counter": 1,
+          "sport_id": 6,
+          "sub": [
+            {
+              "id": 104257,
+              "name": "Asian Volleyball Championship. Women",
+              "counter": 1,
+              "sport_id": 6,
+              "countryId": 229
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "Belarus",
+          "counter": 1,
+          "sport_id": 6,
+          "sub": [
+            {
+              "id": 2141137,
+              "name": "Belarus. Liga Pro",
+              "counter": 1,
+              "sport_id": 6,
+              "countryId": 22
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "name": "Vietnam",
+          "counter": 1,
+          "sport_id": 6,
+          "sub": [
+            {
+              "id": 1366743,
+              "name": "Vietnam Championship. Youth League",
+              "counter": 1,
+              "sport_id": 6,
+              "countryId": 43
+            }
+          ]
+        },
+        {
+          "id": 223,
+          "name": "Europe",
+          "counter": 3,
+          "sport_id": 6,
+          "sub": [
+            {
+              "id": 101513,
+              "name": "European Championship. Women",
+              "counter": 2,
+              "sport_id": 6,
+              "countryId": 223
+            },
+            {
+              "id": 2644543,
+              "name": "European Championship U20. Women",
+              "counter": 1,
+              "sport_id": 6,
+              "countryId": 223
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Rugby",
+      "counter": 2,
+      "sub": [
+        {
+          "id": 4,
+          "name": "Australia",
+          "counter": 1,
+          "sport_id": 7,
+          "sub": [
+            {
+              "id": 230737,
+              "name": "Australia. NRL",
+              "counter": 1,
+              "sport_id": 7,
+              "countryId": 4
+            }
+          ]
+        },
+        {
+          "id": 198,
+          "name": "France",
+          "counter": 1,
+          "sport_id": 7,
+          "sub": [
+            {
+              "id": 3072854,
+              "name": "LNR. Super 7. Women",
+              "counter": 1,
+              "sport_id": 7,
+              "countryId": 198
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Handball",
+      "counter": 2,
+      "sub": [
+        {
+          "id": 225,
+          "name": "World",
+          "counter": 2,
+          "sport_id": 8,
+          "sub": [
+            {
+              "id": 2230599,
+              "name": "Handball 21. Champions League",
+              "counter": 2,
+              "sport_id": 8,
+              "countryId": 225
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Table Tennis",
+      "counter": 50,
+      "sub": [
+        {
+          "id": 1,
+          "name": "Russia",
+          "counter": 14,
+          "sport_id": 10,
+          "sub": [
+            {
+              "id": 2685665,
+              "name": "Masters. Russia",
+              "counter": 6,
+              "sport_id": 10,
+              "countryId": 1
+            },
+            {
+              "id": 2685644,
+              "name": "Masters. Russia. Women",
+              "counter": 3,
+              "sport_id": 10,
+              "countryId": 1
+            },
+            {
+              "id": 1691055,
+              "name": "Pro League",
+              "counter": 5,
+              "sport_id": 10,
+              "countryId": 1
+            }
+          ]
+        },
+        {
+          "id": 225,
+          "name": "World",
+          "counter": 4,
+          "sport_id": 10,
+          "sub": [
+            {
+              "id": 2112017,
+              "name": "Masters. Super League",
+              "counter": 2,
+              "sport_id": 10,
+              "countryId": 225
+            },
+            {
+              "id": 2222157,
+              "name": "CTT 21. World Championship",
+              "counter": 2,
+              "sport_id": 10,
+              "countryId": 225
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Ukraine",
+          "counter": 7,
+          "sport_id": 10,
+          "sub": [
+            {
+              "id": 1733171,
+              "name": "Setka Cup",
+              "counter": 7,
+              "sport_id": 10,
+              "countryId": 2
+            }
+          ]
+        },
+        {
+          "id": 147,
+          "name": "Poland",
+          "counter": 4,
+          "sport_id": 10,
+          "sub": [
+            {
+              "id": 2685678,
+              "name": "Masters. Poland",
+              "counter": 2,
+              "sport_id": 10,
+              "countryId": 147
+            },
+            {
+              "id": 2685633,
+              "name": "Masters. Poland. Women",
+              "counter": 1,
+              "sport_id": 10,
+              "countryId": 147
+            },
+            {
+              "id": 2437055,
+              "name": "TT-Cup. Poland",
+              "counter": 1,
+              "sport_id": 10,
+              "countryId": 147
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "name": "Germany",
+          "counter": 4,
+          "sport_id": 10,
+          "sub": [
+            {
+              "id": 3072612,
+              "name": "WTT. Feeder. Berlin. Women. Doubles",
+              "counter": 4,
+              "sport_id": 10,
+              "countryId": 53
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "Belarus",
+          "counter": 3,
+          "sport_id": 10,
+          "sub": [
+            {
+              "id": 2685648,
+              "name": "Masters. Belarus",
+              "counter": 2,
+              "sport_id": 10,
+              "countryId": 22
+            },
+            {
+              "id": 2338810,
+              "name": "Pro League. Minsk",
+              "counter": 1,
+              "sport_id": 10,
+              "countryId": 22
+            }
+          ]
+        },
+        {
+          "id": 90,
+          "name": "China",
+          "counter": 2,
+          "sport_id": 10,
+          "sub": [
+            {
+              "id": 2685900,
+              "name": "Masters. China",
+              "counter": 2,
+              "sport_id": 10,
+              "countryId": 90
+            }
+          ]
+        },
+        {
+          "id": 204,
+          "name": "Czech Republic",
+          "counter": 10,
+          "sport_id": 10,
+          "sub": [
+            {
+              "id": 2365607,
+              "name": "TT-Cup. Czech Republic",
+              "counter": 4,
+              "sport_id": 10,
+              "countryId": 204
+            },
+            {
+              "id": 2095165,
+              "name": "Pro League. Czech Republic",
+              "counter": 4,
+              "sport_id": 10,
+              "countryId": 204
+            },
+            {
+              "id": 2187287,
+              "name": "Setka Cup. Czech Republic",
+              "counter": 2,
+              "sport_id": 10,
+              "countryId": 204
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "Argentina",
+          "counter": 1,
+          "sport_id": 10,
+          "sub": [
+            {
+              "id": 2791040,
+              "name": "Masters. Argentina",
+              "counter": 1,
+              "sport_id": 10,
+              "countryId": 14
+            }
+          ]
+        },
+        {
+          "id": 78,
+          "name": "Spain",
+          "counter": 1,
+          "sport_id": 10,
+          "sub": [
+            {
+              "id": 2685660,
+              "name": "Masters. Spain",
+              "counter": 1,
+              "sport_id": 10,
+              "countryId": 78
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Badminton",
+      "counter": 6,
+      "sub": [
+        {
+          "id": 225,
+          "name": "World",
+          "counter": 6,
+          "sport_id": 16,
+          "sub": [
+            {
+              "id": 861063,
+              "name": "World Championships",
+              "counter": 1,
+              "sport_id": 16,
+              "countryId": 225
+            },
+            {
+              "id": 857445,
+              "name": "World Championships. Doubles",
+              "counter": 1,
+              "sport_id": 16,
+              "countryId": 225
+            },
+            {
+              "id": 2953738,
+              "name": "CB 26. Champions League",
+              "counter": 2,
+              "sport_id": 16,
+              "countryId": 225
+            },
+            {
+              "id": 2954130,
+              "name": "CB 26. Champions League. Women",
+              "counter": 2,
+              "sport_id": 16,
+              "countryId": 225
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Beach Volleyball",
+      "counter": 6,
+      "sub": [
+        {
+          "id": 225,
+          "name": "World",
+          "counter": 2,
+          "sport_id": 29,
+          "sub": [
+            {
+              "id": 2475911,
+              "name": "CBV 23. International Cup",
+              "counter": 2,
+              "sport_id": 29,
+              "countryId": 225
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Russia",
+          "counter": 2,
+          "sport_id": 29,
+          "sub": [
+            {
+              "id": 209393,
+              "name": "Russian Championship. Women",
+              "counter": 2,
+              "sport_id": 29,
+              "countryId": 1
+            }
+          ]
+        },
+        {
+          "id": 212,
+          "name": "Estonia",
+          "counter": 2,
+          "sport_id": 29,
+          "sub": [
+            {
+              "id": 3072826,
+              "name": "Pro Beach Tour. Futures. Tallinn",
+              "counter": 2,
+              "sport_id": 29,
+              "countryId": 212
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Golf",
+      "counter": 7,
+      "sub": [
+        {
+          "id": 219,
+          "name": "Scotland",
+          "counter": 7,
+          "sport_id": 41,
+          "sub": [
+            {
+              "id": 3066357,
+              "name": "Nexo Championship. 2026",
+              "counter": 1,
+              "sport_id": 41,
+              "countryId": 219
+            },
+            {
+              "id": 3066377,
+              "name": "Nexo Championship. 2026. Round 2",
+              "counter": 6,
+              "sport_id": 41,
+              "countryId": 219
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Horse Racing",
+      "counter": 3,
+      "sub": [
+        {
+          "id": 214,
+          "name": "South Africa",
+          "counter": 1,
+          "sport_id": 44,
+          "sub": [
+            {
+              "id": 1377695,
+              "name": "South Africa. Fairview",
+              "counter": 1,
+              "sport_id": 44,
+              "countryId": 214
+            }
+          ]
+        },
+        {
+          "id": 218,
+          "name": "Japan",
+          "counter": 1,
+          "sport_id": 44,
+          "sub": [
+            {
+              "id": 1766889,
+              "name": "Japan. Kawasaki",
+              "counter": 1,
+              "sport_id": 44,
+              "countryId": 218
+            }
+          ]
+        },
+        {
+          "id": 190,
+          "name": "Turkey",
+          "counter": 1,
+          "sport_id": 44,
+          "sub": [
+            {
+              "id": 1642961,
+              "name": "",
+              "counter": 1,
+              "sport_id": 44,
+              "countryId": 190
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Athletics",
+      "counter": 8,
+      "sub": [
+        {
+          "id": 225,
+          "name": "World",
+          "counter": 8,
+          "sport_id": 57,
+          "sub": [
+            {
+              "id": 2952739,
+              "name": "CA 26. World Championship. 100 meters",
+              "counter": 4,
+              "sport_id": 57,
+              "countryId": 225
+            },
+            {
+              "id": 3019015,
+              "name": "CA 26. World Championship. 200 meters",
+              "counter": 4,
+              "sport_id": 57,
+              "countryId": 225
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Cricket",
+      "counter": 27,
+      "sub": [
+        {
+          "id": 208,
+          "name": "Sri Lanka",
+          "counter": 1,
+          "sport_id": 66,
+          "sub": [
+            {
+              "id": 2873296,
+              "name": "Sri Lanka. Major Clubs Limited Over",
+              "counter": 1,
+              "sport_id": 66,
+              "countryId": 208
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "Afghanistan",
+          "counter": 1,
+          "sport_id": 66,
+          "sub": [
+            {
+              "id": 2579021,
+              "name": "Kabul Premier League",
+              "counter": 1,
+              "sport_id": 66,
+              "countryId": 17
+            }
+          ]
+        },
+        {
+          "id": 225,
+          "name": "World",
+          "counter": 4,
+          "sport_id": 66,
+          "sub": [
+            {
+              "id": 2123673,
+              "name": "England vs Pakistan",
+              "counter": 1,
+              "sport_id": 66,
+              "countryId": 225
+            },
+            {
+              "id": 2104578,
+              "name": "European Series. T10",
+              "counter": 1,
+              "sport_id": 66,
+              "countryId": 225
+            },
+            {
+              "id": 2718439,
+              "name": "Cricket 24. Cyber League",
+              "counter": 2,
+              "sport_id": 66,
+              "countryId": 225
+            }
+          ]
+        },
+        {
+          "id": 69,
+          "name": "Zimbabwe",
+          "counter": 1,
+          "sport_id": 66,
+          "sub": [
+            {
+              "id": 2608714,
+              "name": "Zimbabwe. National Premier League",
+              "counter": 1,
+              "sport_id": 66,
+              "countryId": 69
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "name": "Germany",
+          "counter": 1,
+          "sport_id": 66,
+          "sub": [
+            {
+              "id": 3015154,
+              "name": "German. Super League",
+              "counter": 1,
+              "sport_id": 66,
+              "countryId": 53
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "name": "United Kingdom",
+          "counter": 8,
+          "sport_id": 66,
+          "sub": [
+            {
+              "id": 2992192,
+              "name": "County Championship Division One",
+              "counter": 5,
+              "sport_id": 66,
+              "countryId": 39
+            },
+            {
+              "id": 2992193,
+              "name": "County Championship Division Two",
+              "counter": 3,
+              "sport_id": 66,
+              "countryId": 39
+            }
+          ]
+        },
+        {
+          "id": 71,
+          "name": "India",
+          "counter": 10,
+          "sport_id": 66,
+          "sub": [
+            {
+              "id": 2895008,
+              "name": "India. Kerala League",
+              "counter": 1,
+              "sport_id": 66,
+              "countryId": 71
+            },
+            {
+              "id": 2594564,
+              "name": "India. Uttar Pradesh Premier League",
+              "counter": 1,
+              "sport_id": 66,
+              "countryId": 71
+            },
+            {
+              "id": 3055632,
+              "name": "India. Assam Premier League",
+              "counter": 1,
+              "sport_id": 66,
+              "countryId": 71
+            },
+            {
+              "id": 3072946,
+              "name": "India. Apple Cup",
+              "counter": 1,
+              "sport_id": 66,
+              "countryId": 71
+            },
+            {
+              "id": 3066032,
+              "name": "India. South Indian Veteran Premier League",
+              "counter": 1,
+              "sport_id": 66,
+              "countryId": 71
+            },
+            {
+              "id": 2630062,
+              "name": "Chandigarh League",
+              "counter": 1,
+              "sport_id": 66,
+              "countryId": 71
+            },
+            {
+              "id": 3072948,
+              "name": "India. TRC Battle Of Champions",
+              "counter": 1,
+              "sport_id": 66,
+              "countryId": 71
+            },
+            {
+              "id": 2825843,
+              "name": "Chennai daily cricket",
+              "counter": 1,
+              "sport_id": 66,
+              "countryId": 71
+            },
+            {
+              "id": 2768040,
+              "name": "Cyber Indian League 24",
+              "counter": 2,
+              "sport_id": 66,
+              "countryId": 71
+            }
+          ]
+        },
+        {
+          "id": 141,
+          "name": "Pakistan",
+          "counter": 1,
+          "sport_id": 66,
+          "sub": [
+            {
+              "id": 2861158,
+              "name": "Gujrat District Cup",
+              "counter": 1,
+              "sport_id": 66,
+              "countryId": 141
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Greyhound Racing",
+      "counter": 6,
+      "sub": [
+        {
+          "id": 4,
+          "name": "Australia",
+          "counter": 4,
+          "sport_id": 68,
+          "sub": [
+            {
+              "id": 1529635,
+              "name": "Geelong",
+              "counter": 1,
+              "sport_id": 68,
+              "countryId": 4
+            },
+            {
+              "id": 1531623,
+              "name": "Grafton",
+              "counter": 1,
+              "sport_id": 68,
+              "countryId": 4
+            },
+            {
+              "id": 1529341,
+              "name": "Mandurah",
+              "counter": 1,
+              "sport_id": 68,
+              "countryId": 4
+            },
+            {
+              "id": 1528689,
+              "name": "Richmond",
+              "counter": 1,
+              "sport_id": 68,
+              "countryId": 4
+            }
+          ]
+        },
+        {
+          "id": 231,
+          "name": "England",
+          "counter": 2,
+          "sport_id": 68,
+          "sub": [
+            {
+              "id": 1697506,
+              "name": "Central Park",
+              "counter": 1,
+              "sport_id": 68,
+              "countryId": 231
+            },
+            {
+              "id": 1700067,
+              "name": "Harlow",
+              "counter": 1,
+              "sport_id": 68,
+              "countryId": 231
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "FIFA",
+      "counter": 65,
+      "sub": [
+        {
+          "id": 225,
+          "name": "World",
+          "counter": 32,
+          "sport_id": 85,
+          "sub": [
+            {
+              "id": 2986291,
+              "name": "FC 26. 5x5 Rush. Superleague",
+              "counter": 4,
+              "sport_id": 85,
+              "countryId": 225
+            },
+            {
+              "id": 3002692,
+              "name": "FC 26. Champions League",
+              "counter": 5,
+              "sport_id": 85,
+              "countryId": 225
+            },
+            {
+              "id": 2985586,
+              "name": "FC 26. World Championship",
+              "counter": 5,
+              "sport_id": 85,
+              "countryId": 225
+            },
+            {
+              "id": 2627439,
+              "name": "FC24. Penalty",
+              "counter": 1,
+              "sport_id": 85,
+              "countryId": 225
+            },
+            {
+              "id": 2812138,
+              "name": "FC25. Penalty",
+              "counter": 2,
+              "sport_id": 85,
+              "countryId": 225
+            },
+            {
+              "id": 2952096,
+              "name": "FC26. Penalty",
+              "counter": 4,
+              "sport_id": 85,
+              "countryId": 225
+            },
+            {
+              "id": 1939256,
+              "name": "FIFA18. Penalty",
+              "counter": 3,
+              "sport_id": 85,
+              "countryId": 225
+            },
+            {
+              "id": 2334988,
+              "name": "FIFA22. Penalty",
+              "counter": 4,
+              "sport_id": 85,
+              "countryId": 225
+            },
+            {
+              "id": 2551768,
+              "name": "FIFA23. Penalty",
+              "counter": 4,
+              "sport_id": 85,
+              "countryId": 225
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "name": "Germany",
+          "counter": 5,
+          "sport_id": 85,
+          "sub": [
+            {
+              "id": 2895064,
+              "name": "FC 25. Germany Championship",
+              "counter": 5,
+              "sport_id": 85,
+              "countryId": 53
+            }
+          ]
+        },
+        {
+          "id": 231,
+          "name": "England",
+          "counter": 9,
+          "sport_id": 85,
+          "sub": [
+            {
+              "id": 2648573,
+              "name": "FC 24. 4x4. England Championship",
+              "counter": 5,
+              "sport_id": 85,
+              "countryId": 231
+            },
+            {
+              "id": 3042743,
+              "name": "FC 26. England Championship",
+              "counter": 4,
+              "sport_id": 85,
+              "countryId": 231
+            }
+          ]
+        },
+        {
+          "id": 78,
+          "name": "Spain",
+          "counter": 5,
+          "sport_id": 85,
+          "sub": [
+            {
+              "id": 3024336,
+              "name": "FC 26. Spain Championship",
+              "counter": 5,
+              "sport_id": 85,
+              "countryId": 78
+            }
+          ]
+        },
+        {
+          "id": 79,
+          "name": "Italy",
+          "counter": 5,
+          "sport_id": 85,
+          "sub": [
+            {
+              "id": 2837895,
+              "name": "FC 25. Italy Championship",
+              "counter": 5,
+              "sport_id": 85,
+              "countryId": 79
+            }
+          ]
+        },
+        {
+          "id": 223,
+          "name": "Europe",
+          "counter": 9,
+          "sport_id": 85,
+          "sub": [
+            {
+              "id": 2860561,
+              "name": "FC 25. 3x3. Conference League",
+              "counter": 4,
+              "sport_id": 85,
+              "countryId": 223
+            },
+            {
+              "id": 2911430,
+              "name": "FC 25. Europe League",
+              "counter": 5,
+              "sport_id": 85,
+              "countryId": 223
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "name": "Bowling",
+      "counter": 2,
+      "sub": [
+        {
+          "id": 225,
+          "name": "World",
+          "counter": 2,
+          "sport_id": 113,
+          "sub": [
+            {
+              "id": 2867893,
+              "name": "Fast Bowling",
+              "counter": 2,
+              "sport_id": 113,
+              "countryId": 225
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Beach Soccer",
+      "counter": 1,
+      "sub": [
+        {
+          "id": 1,
+          "name": "Russia",
+          "counter": 1,
+          "sport_id": 25,
+          "sub": [
+            {
+              "id": 1287717,
+              "name": "Russian Championship. Women",
+              "counter": 1,
+              "sport_id": 25,
+              "countryId": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Water Polo",
+      "counter": 1,
+      "sub": [
+        {
+          "id": 225,
+          "name": "World",
+          "counter": 1,
+          "sport_id": 17,
+          "sub": [
+            {
+              "id": 1633919,
+              "name": "Friendly Tournament. National Teams",
+              "counter": 1,
+              "sport_id": 17,
+              "countryId": 225
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Snooker",
+      "counter": 1,
+      "sub": [
+        {
+          "id": 90,
+          "name": "China",
+          "counter": 1,
+          "sport_id": 30,
+          "sub": [
+            {
+              "id": 138929,
+              "name": "China Open",
+              "counter": 1,
+              "sport_id": 30,
+              "countryId": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Floorball",
+      "counter": 1,
+      "sub": [
+        {
+          "id": 204,
+          "name": "Czech Republic",
+          "counter": 1,
+          "sport_id": 67,
+          "sub": [
+            {
+              "id": 285013,
+              "name": "Czech Cup",
+              "counter": 1,
+              "sport_id": 67,
+              "countryId": 204
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "American Football",
+      "counter": 1,
+      "sub": [
+        {
+          "id": 153,
+          "name": "United States",
+          "counter": 1,
+          "sport_id": 13,
+          "sub": [
+            {
+              "id": 78873,
+              "name": "NFL. Preseason Games",
+              "counter": 1,
+              "sport_id": 13,
+              "countryId": 153
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Futsal",
+      "counter": 1,
+      "sub": [
+        {
+          "id": 4,
+          "name": "Australia",
+          "counter": 1,
+          "sport_id": 14,
+          "sub": [
+            {
+              "id": 2554392,
+              "name": "Australia. Victoria. Women",
+              "counter": 1,
+              "sport_id": 14,
+              "countryId": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Motorsport",
+      "counter": 1,
+      "sub": [
+        {
+          "id": 85,
+          "name": "Canada",
+          "counter": 1,
+          "sport_id": 18,
+          "sub": [
+            {
+              "id": 3062502,
+              "name": "IndyCar Series. 2026. Ontario Honda Dealers Indy Markham",
+              "counter": 1,
+              "sport_id": 18,
+              "countryId": 85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Boxing",
+      "counter": 1,
+      "sub": [
+        {
+          "id": 225,
+          "name": "World",
+          "counter": 1,
+          "sport_id": 9,
+          "sub": [
+            {
+              "id": 318137,
+              "name": "Fights",
+              "counter": 1,
+              "sport_id": 9,
+              "countryId": 225
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Billiards",
+      "counter": 1,
+      "sub": [
+        {
+          "id": 153,
+          "name": "United States",
+          "counter": 1,
+          "sport_id": 12,
+          "sub": [
+            {
+              "id": 3070793,
+              "name": "USA. Phoenix Open. 2026",
+              "counter": 1,
+              "sport_id": 12,
+              "countryId": 153
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Darts",
+      "counter": 2,
+      "sub": [
+        {
+          "id": 4,
+          "name": "Australia",
+          "counter": 2,
+          "sport_id": 21,
+          "sub": [
+            {
+              "id": 3072226,
+              "name": "PDC World Series. 2026. Australian Masters",
+              "counter": 1,
+              "sport_id": 21,
+              "countryId": 4
+            },
+            {
+              "id": 3065790,
+              "name": "PDC World Series. 2026. Australian Masters. Winner",
+              "counter": 1,
+              "sport_id": 21,
+              "countryId": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Martial Arts",
+      "counter": 1,
+      "sub": [
+        {
+          "id": 225,
+          "name": "World",
+          "counter": 1,
+          "sport_id": 56,
+          "sub": [
+            {
+              "id": 2337073,
+              "name": "",
+              "counter": 1,
+              "sport_id": 56,
+              "countryId": 225
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Australian Rules",
+      "counter": 1,
+      "sub": [
+        {
+          "id": 4,
+          "name": "Australia",
+          "counter": 1,
+          "sport_id": 28,
+          "sub": [
+            {
+              "id": 1140263,
+              "name": "Australian Football League",
+              "counter": 1,
+              "sport_id": 28,
+              "countryId": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Formula 1",
+      "counter": 1,
+      "sub": [
+        {
+          "id": 133,
+          "name": "Netherlands",
+          "counter": 1,
+          "sport_id": 26,
+          "sub": [
+            {
+              "id": 2285262,
+              "name": "Netherlands Grand Prix",
+              "counter": 1,
+              "sport_id": 26,
+              "countryId": 133
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "status": 1,
+  "page": "/v1/sports",
+  "body": [
+    {
+      "id": 1,
+      "name": "Football",
+      "counter": 2568
+    },
+    {
+      "id": 2,
+      "name": "Ice Hockey",
+      "counter": 168
+    },
+    {
+      "id": 3,
+      "name": "Basketball",
+      "counter": 103
+    },
+    {
+      "id": 4,
+      "name": "Tennis",
+      "counter": 131
+    },
+    {
+      "id": 5,
+      "name": "Baseball",
+      "counter": 23
+    },
+    {
+      "id": 6,
+      "name": "Volleyball",
+      "counter": 84
+    },
+    {
+      "id": 7,
+      "name": "Rugby",
+      "counter": 65
+    },
+    {
+      "id": 8,
+      "name": "Handball",
+      "counter": 67
+    },
+    {
+      "id": 9,
+      "name": "Boxing",
+      "counter": 95
+    },
+    {
+      "id": 10,
+      "name": "Table Tennis",
+      "counter": 619
+    },
+    {
+      "id": 11,
+      "name": "Chess",
+      "counter": 1
+    },
+    {
+      "id": 12,
+      "name": "Billiards",
+      "counter": 11
+    },
+    {
+      "id": 13,
+      "name": "American Football",
+      "counter": 212
+    },
+    {
+      "id": 14,
+      "name": "Futsal",
+      "counter": 22
+    },
+    {
+      "id": 16,
+      "name": "Badminton",
+      "counter": 3
+    },
+    {
+      "id": 17,
+      "name": "Water Polo",
+      "counter": 2
+    },
+    {
+      "id": 18,
+      "name": "Motorsport",
+      "counter": 19
+    },
+    {
+      "id": 21,
+      "name": "Darts",
+      "counter": 31
+    },
+    {
+      "id": 25,
+      "name": "Beach Soccer",
+      "counter": 3
+    },
+    {
+      "id": 28,
+      "name": "Australian Rules",
+      "counter": 18
+    },
+    {
+      "id": 29,
+      "name": "Beach Volleyball",
+      "counter": 16
+    },
+    {
+      "id": 30,
+      "name": "Snooker",
+      "counter": 5
+    },
+    {
+      "id": 41,
+      "name": "Golf",
+      "counter": 126
+    },
+    {
+      "id": 44,
+      "name": "Horse Racing",
+      "counter": 363
+    },
+    {
+      "id": 53,
+      "name": "Wrestling",
+      "counter": 17
+    },
+    {
+      "id": 56,
+      "name": "Martial Arts",
+      "counter": 65
+    },
+    {
+      "id": 57,
+      "name": "Athletics",
+      "counter": 15
+    },
+    {
+      "id": 66,
+      "name": "Cricket",
+      "counter": 50
+    },
+    {
+      "id": 67,
+      "name": "Floorball",
+      "counter": 4
+    },
+    {
+      "id": 68,
+      "name": "Greyhound Racing",
+      "counter": 49
+    },
+    {
+      "id": 189,
+      "name": "UFC",
+      "counter": 69
+    },
+    {
+      "id": 202,
+      "name": "Politics",
+      "counter": 172
+    }
+  ]
+}

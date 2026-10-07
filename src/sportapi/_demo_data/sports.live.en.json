@@ -1,0 +1,116 @@
+{
+  "status": 1,
+  "page": "/v1/sports",
+  "body": [
+    {
+      "id": 1,
+      "name": "Football",
+      "counter": 48
+    },
+    {
+      "id": 2,
+      "name": "Ice Hockey",
+      "counter": 16
+    },
+    {
+      "id": 3,
+      "name": "Basketball",
+      "counter": 22
+    },
+    {
+      "id": 4,
+      "name": "Tennis",
+      "counter": 32
+    },
+    {
+      "id": 5,
+      "name": "Baseball",
+      "counter": 11
+    },
+    {
+      "id": 6,
+      "name": "Volleyball",
+      "counter": 15
+    },
+    {
+      "id": 7,
+      "name": "Rugby",
+      "counter": 2
+    },
+    {
+      "id": 8,
+      "name": "Handball",
+      "counter": 2
+    },
+    {
+      "id": 10,
+      "name": "Table Tennis",
+      "counter": 46
+    },
+    {
+      "id": 14,
+      "name": "Futsal",
+      "counter": 1
+    },
+    {
+      "id": 16,
+      "name": "Badminton",
+      "counter": 6
+    },
+    {
+      "id": 21,
+      "name": "Darts",
+      "counter": 2
+    },
+    {
+      "id": 25,
+      "name": "Beach Soccer",
+      "counter": 1
+    },
+    {
+      "id": 28,
+      "name": "Australian Rules",
+      "counter": 1
+    },
+    {
+      "id": 29,
+      "name": "Beach Volleyball",
+      "counter": 7
+    },
+    {
+      "id": 41,
+      "name": "Golf",
+      "counter": 6
+    },
+    {
+      "id": 44,
+      "name": "Horse Racing",
+      "counter": 3
+    },
+    {
+      "id": 57,
+      "name": "Athletics",
+      "counter": 6
+    },
+    {
+      "id": 66,
+      "name": "Cricket",
+      "counter": 26
+    },
+    {
+      "id": 68,
+      "name": "Greyhound Racing",
+      "counter": 6
+    },
+    {
+      "id": 85,
+      "name": "FIFA",
+      "counter": 65
+    },
+    {
+      "id": 113,
+      "name": "Bowling",
+      "counter": 3
+    }
+  ]
+}

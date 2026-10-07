@@ -1,0 +1,96 @@
+{
+  "status": 1,
+  "page": "/v1/countries",
+  "body": [
+    {
+      "id": 1,
+      "name": "Russia",
+      "sport_id": 1,
+      "counter": 1
+    },
+    {
+      "id": 2,
+      "name": "Ukraine",
+      "sport_id": 1,
+      "counter": 3
+    },
+    {
+      "id": 4,
+      "name": "Australia",
+      "sport_id": 1,
+      "counter": 8
+    },
+    {
+      "id": 9,
+      "name": "Angola",
+      "sport_id": 1,
+      "counter": 1
+    },
+    {
+      "id": 22,
+      "name": "Belarus",
+      "sport_id": 1,
+      "counter": 1
+    },
+    {
+      "id": 36,
+      "name": "Bhutan",
+      "sport_id": 1,
+      "counter": 1
+    },
+    {
+      "id": 57,
+      "name": "Hong Kong",
+      "sport_id": 1,
+      "counter": 1
+    },
+    {
+      "id": 71,
+      "name": "India",
+      "sport_id": 1,
+      "counter": 1
+    },
+    {
+      "id": 90,
+      "name": "China",
+      "sport_id": 1,
+      "counter": 1
+    },
+    {
+      "id": 132,
+      "name": "Nigeria",
+      "sport_id": 1,
+      "counter": 2
+    },
+    {
+      "id": 190,
+      "name": "Turkey",
+      "sport_id": 1,
+      "counter": 1
+    },
+    {
+      "id": 208,
+      "name": "Sri Lanka",
+      "sport_id": 1,
+      "counter": 1
+    },
+    {
+      "id": 218,
+      "name": "Japan",
+      "sport_id": 1,
+      "counter": 2
+    },
+    {
+      "id": 225,
+      "name": "World",
+      "sport_id": 1,
+      "counter": 24
+    },
+    {
+      "id": 226,
+      "name": "Africa",
+      "sport_id": 1,
+      "counter": 1
+    }
+  ]
+}

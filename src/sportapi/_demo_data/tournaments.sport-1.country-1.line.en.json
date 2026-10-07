@@ -1,0 +1,104 @@
+{
+  "status": 1,
+  "page": "/v1/tournaments",
+  "body": [
+    {
+      "id": 176125,
+      "name": "Russian Cup",
+      "counter": 8,
+      "sport_id": 1,
+      "countryId": 1
+    },
+    {
+      "id": 225733,
+      "name": "Russia. Premier League",
+      "counter": 18,
+      "sport_id": 1,
+      "countryId": 1
+    },
+    {
+      "id": 30079,
+      "name": "Russia. Premier League. Statistics Round",
+      "counter": 1,
+      "sport_id": 1,
+      "countryId": 1
+    },
+    {
+      "id": 2421233,
+      "name": "Russian Championship. League 1",
+      "counter": 12,
+      "sport_id": 1,
+      "countryId": 1
+    },
+    {
+      "id": 2425380,
+      "name": "Russian Championship. League 1. Statistics Round",
+      "counter": 1,
+      "sport_id": 1,
+      "countryId": 1
+    },
+    {
+      "id": 178119,
+      "name": "Russian Cup. Women",
+      "counter": 2,
+      "sport_id": 1,
+      "countryId": 1
+    },
+    {
+      "id": 2574956,
+      "name": "Russian Championship. League 2. Division A. Gold",
+      "counter": 5,
+      "sport_id": 1,
+      "countryId": 1
+    },
+    {
+      "id": 2574962,
+      "name": "Russian Championship. League 2. Division A. Silver",
+      "counter": 3,
+      "sport_id": 1,
+      "countryId": 1
+    },
+    {
+      "id": 2575114,
+      "name": "Russian Championship. League 2. Division B. Group 1",
+      "counter": 7,
+      "sport_id": 1,
+      "countryId": 1
+    },
+    {
+      "id": 2577533,
+      "name": "Russian Championship. League 2. Division B. Group 2",
+      "counter": 6,
+      "sport_id": 1,
+      "countryId": 1
+    },
+    {
+      "id": 2577743,
+      "name": "Russian Championship. League 2. Division B. Group 3",
+      "counter": 8,
+      "sport_id": 1,
+      "countryId": 1
+    },
+    {
+      "id": 2575084,
+      "name": "Russian Championship. League 2. Division B. Group 4",
+      "counter": 5,
+      "sport_id": 1,
+      "countryId": 1
+    },
+    {
+      "id": 2916716,
+      "name": "Russia. Youth Championship. Division A",
+      "counter": 7,
+      "sport_id": 1,
+      "countryId": 1
+    },
+    {
+      "id": 2826726,
+      "name": "Russia. Youth Championship. Division B",
+      "counter": 3,
+      "sport_id": 1,
+      "countryId": 1
+    }
+  ]
+}

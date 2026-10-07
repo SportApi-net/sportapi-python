@@ -1,0 +1,13 @@
+{
+  "status": 1,
+  "page": "/v1/tournaments",
+  "body": [
+    {
+      "id": 2916716,
+      "name": "Russia. Youth Championship. Division A",
+      "counter": 1,
+      "sport_id": 1,
+      "countryId": 1
+    }
+  ]
+}

@@ -1,0 +1,3243 @@
+{
+  "status": 1,
+  "page": "/v1/event",
+  "body": {
+    "sgame_id": "6a35079e5e99bd05c63e9101",
+    "stat_id": "6a34c3a75e99bd05c63e703a",
+    "game_id": 746146992,
+    "game_mid": 746146992,
+    "game_num": 150078,
+    "game_start": 1787338800,
+    "country_id": 231,
+    "country_name": "England",
+    "tournament_id": 88637,
+    "tournament_name": "England. Premier League",
+    "opp_1_name": "Arsenal",
+    "opp_2_name": "Coventry City",
+    "opp_1_id": 50679,
+    "opp_1_ids": [
+      50679
+    ],
+    "opp_2_id": 2074,
+    "opp_2_ids": [
+      2074
+    ],
+    "opp_1_icon": "08a25897e35d75d7261a8095b9599aad.png",
+    "opp_2_icon": "2074.png",
+    "game_oc_counter": 278,
+    "game_oc_list": [
+      {
+        "group_id": 19,
+        "group_name": "Both Teams To Score",
+        "columns": 2,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Both Teams To Score",
+              "oc_name": "Yes",
+              "oc_rate": 3.336,
+              "oc_size": 0,
+              "oc_pointer": "746146992|19|180|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Both Teams To Score",
+              "oc_name": "No",
+              "oc_rate": 1.33,
+              "oc_size": 0,
+              "oc_pointer": "746146992|19|181|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 17,
+        "group_name": "Total",
+        "columns": 2,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Total",
+              "oc_name": "Over 3.5",
+              "oc_rate": 1.23,
+              "oc_size": "3.5",
+              "oc_pointer": "746146992|17|9|3.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total",
+              "oc_name": "Over 4",
+              "oc_rate": 1.435,
+              "oc_size": "4",
+              "oc_pointer": "746146992|17|9|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total",
+              "oc_name": "Over 4.5",
+              "oc_rate": 2.09,
+              "oc_size": "4.5",
+              "oc_pointer": "746146992|17|9|4.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total",
+              "oc_name": "Over 5",
+              "oc_rate": 3.23,
+              "oc_size": "5",
+              "oc_pointer": "746146992|17|9|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total",
+              "oc_name": "Over 5.5",
+              "oc_rate": 4.41,
+              "oc_size": "5.5",
+              "oc_pointer": "746146992|17|9|5.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total",
+              "oc_name": "Over 6.5",
+              "oc_rate": 9.96,
+              "oc_size": "6.5",
+              "oc_pointer": "746146992|17|9|6.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Total",
+              "oc_name": "Under 3.5",
+              "oc_rate": 4.25,
+              "oc_size": "3.5",
+              "oc_pointer": "746146992|17|10|3.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total",
+              "oc_name": "Under 4",
+              "oc_rate": 2.848,
+              "oc_size": "4",
+              "oc_pointer": "746146992|17|10|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total",
+              "oc_name": "Under 4.5",
+              "oc_rate": 1.81,
+              "oc_size": "4.5",
+              "oc_pointer": "746146992|17|10|4.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total",
+              "oc_name": "Under 5",
+              "oc_rate": 1.344,
+              "oc_size": "5",
+              "oc_pointer": "746146992|17|10|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total",
+              "oc_name": "Under 5.5",
+              "oc_rate": 1.22,
+              "oc_size": "5.5",
+              "oc_pointer": "746146992|17|10|5.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total",
+              "oc_name": "Under 6.5",
+              "oc_rate": 1.056,
+              "oc_size": "6.5",
+              "oc_pointer": "746146992|17|10|6.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 99,
+        "group_name": "Asian Total",
+        "columns": 2,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Asian Total",
+              "oc_name": "Over 3.75",
+              "oc_rate": 1.288,
+              "oc_size": "3.75",
+              "oc_pointer": "746146992|99|3827|3.75",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Total",
+              "oc_name": "Over 4.25",
+              "oc_rate": 1.73,
+              "oc_size": "4.25",
+              "oc_pointer": "746146992|99|3827|4.25",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Total",
+              "oc_name": "Over 4.75",
+              "oc_rate": 2.405,
+              "oc_size": "4.75",
+              "oc_pointer": "746146992|99|3827|4.75",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Total",
+              "oc_name": "Over 5.25",
+              "oc_rate": 3.73,
+              "oc_size": "5.25",
+              "oc_pointer": "746146992|99|3827|5.25",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Total",
+              "oc_name": "Over 5.75",
+              "oc_rate": 5.8,
+              "oc_size": "5.75",
+              "oc_pointer": "746146992|99|3827|5.75",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Asian Total",
+              "oc_name": "Under 3.75",
+              "oc_rate": 3.71,
+              "oc_size": "3.75",
+              "oc_pointer": "746146992|99|3828|3.75",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Total",
+              "oc_name": "Under 4.25",
+              "oc_rate": 2.208,
+              "oc_size": "4.25",
+              "oc_pointer": "746146992|99|3828|4.25",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Total",
+              "oc_name": "Under 4.75",
+              "oc_rate": 1.584,
+              "oc_size": "4.75",
+              "oc_pointer": "746146992|99|3828|4.75",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Total",
+              "oc_name": "Under 5.25",
+              "oc_rate": 1.275,
+              "oc_size": "5.25",
+              "oc_pointer": "746146992|99|3828|5.25",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Total",
+              "oc_name": "Under 5.75",
+              "oc_rate": 1.136,
+              "oc_size": "5.75",
+              "oc_pointer": "746146992|99|3828|5.75",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 2,
+        "group_name": "Handicap",
+        "columns": 2,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Handicap",
+              "oc_name": "1 -5.5",
+              "oc_rate": 8.25,
+              "oc_size": "-5.5",
+              "oc_pointer": "746146992|2|7|-5.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Handicap",
+              "oc_name": "1 -5",
+              "oc_rate": 6.77,
+              "oc_size": "-5",
+              "oc_pointer": "746146992|2|7|-5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Handicap",
+              "oc_name": "1 -4.5",
+              "oc_rate": 3.096,
+              "oc_size": "-4.5",
+              "oc_pointer": "746146992|2|7|-4.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Handicap",
+              "oc_name": "1 -4",
+              "oc_rate": 2.312,
+              "oc_size": "-4",
+              "oc_pointer": "746146992|2|7|-4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Handicap",
+              "oc_name": "1 -3.5",
+              "oc_rate": 1.595,
+              "oc_size": "-3.5",
+              "oc_pointer": "746146992|2|7|-3.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Handicap",
+              "oc_name": "1 -3",
+              "oc_rate": 1.104,
+              "oc_size": "-3",
+              "oc_pointer": "746146992|2|7|-3",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Handicap",
+              "oc_name": "2 5.5",
+              "oc_rate": 1.075,
+              "oc_size": "5.5",
+              "oc_pointer": "746146992|2|8|5.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Handicap",
+              "oc_name": "2 5",
+              "oc_rate": 1.104,
+              "oc_size": "5",
+              "oc_pointer": "746146992|2|8|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Handicap",
+              "oc_name": "2 4.5",
+              "oc_rate": 1.37,
+              "oc_size": "4.5",
+              "oc_pointer": "746146992|2|8|4.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Handicap",
+              "oc_name": "2 4",
+              "oc_rate": 1.67,
+              "oc_size": "4",
+              "oc_pointer": "746146992|2|8|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Handicap",
+              "oc_name": "2 3.5",
+              "oc_rate": 2.38,
+              "oc_size": "3.5",
+              "oc_pointer": "746146992|2|8|3.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Handicap",
+              "oc_name": "2 3",
+              "oc_rate": 6.8,
+              "oc_size": "3",
+              "oc_pointer": "746146992|2|8|3",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 2854,
+        "group_name": "Asian Handicap",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Asian Handicap",
+              "oc_name": "1 -5.25",
+              "oc_rate": 7.51,
+              "oc_size": "-5.25",
+              "oc_pointer": "746146992|2854|3829|-5.25",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Handicap",
+              "oc_name": "1 -4.75",
+              "oc_rate": 4.05,
+              "oc_size": "-4.75",
+              "oc_pointer": "746146992|2854|3829|-4.75",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Handicap",
+              "oc_name": "1 -4.25",
+              "oc_rate": 2.715,
+              "oc_size": "-4.25",
+              "oc_pointer": "746146992|2854|3829|-4.25",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Handicap",
+              "oc_name": "1 -3.75",
+              "oc_rate": 1.82,
+              "oc_size": "-3.75",
+              "oc_pointer": "746146992|2854|3829|-3.75",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Handicap",
+              "oc_name": "1 -3.25",
+              "oc_rate": 1.37,
+              "oc_size": "-3.25",
+              "oc_pointer": "746146992|2854|3829|-3.25",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Handicap",
+              "oc_name": "1 -2.75",
+              "oc_rate": 1.075,
+              "oc_size": "-2.75",
+              "oc_pointer": "746146992|2854|3829|-2.75",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Asian Handicap",
+              "oc_name": "2 5.25",
+              "oc_rate": 1.088,
+              "oc_size": "5.25",
+              "oc_pointer": "746146992|2854|3830|5.25",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Handicap",
+              "oc_name": "2 4.75",
+              "oc_rate": 1.24,
+              "oc_size": "4.75",
+              "oc_pointer": "746146992|2854|3830|4.75",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Handicap",
+              "oc_name": "2 4.25",
+              "oc_rate": 1.475,
+              "oc_size": "4.25",
+              "oc_pointer": "746146992|2854|3830|4.25",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Handicap",
+              "oc_name": "2 3.75",
+              "oc_rate": 2.075,
+              "oc_size": "3.75",
+              "oc_pointer": "746146992|2854|3830|3.75",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Handicap",
+              "oc_name": "2 3.25",
+              "oc_rate": 3.15,
+              "oc_size": "3.25",
+              "oc_pointer": "746146992|2854|3830|3.25",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Handicap",
+              "oc_name": "2 2.75",
+              "oc_rate": 8.25,
+              "oc_size": "2.75",
+              "oc_pointer": "746146992|2854|3830|2.75",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 15,
+        "group_name": "Total 1",
+        "columns": 2,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Total 1",
+              "oc_name": "3.5 Over",
+              "oc_rate": 1.344,
+              "oc_size": "3.5",
+              "oc_pointer": "746146992|15|11|3.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total 1",
+              "oc_name": "4 Over",
+              "oc_rate": 1.696,
+              "oc_size": "4",
+              "oc_pointer": "746146992|15|11|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total 1",
+              "oc_name": "4.5 Over",
+              "oc_rate": 2.525,
+              "oc_size": "4.5",
+              "oc_pointer": "746146992|15|11|4.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total 1",
+              "oc_name": "5 Over",
+              "oc_rate": 5.04,
+              "oc_size": "5",
+              "oc_pointer": "746146992|15|11|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total 1",
+              "oc_name": "5.5 Over",
+              "oc_rate": 6.6,
+              "oc_size": "5.5",
+              "oc_pointer": "746146992|15|11|5.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total 1",
+              "oc_name": "6.5 Over",
+              "oc_rate": 14.2,
+              "oc_size": "6.5",
+              "oc_pointer": "746146992|15|11|6.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Total 1",
+              "oc_name": "3.5 Under",
+              "oc_rate": 3.232,
+              "oc_size": "3.5",
+              "oc_pointer": "746146992|15|12|3.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total 1",
+              "oc_name": "4 Under",
+              "oc_rate": 2.16,
+              "oc_size": "4",
+              "oc_pointer": "746146992|15|12|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total 1",
+              "oc_name": "4.5 Under",
+              "oc_rate": 1.525,
+              "oc_size": "4.5",
+              "oc_pointer": "746146992|15|12|4.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total 1",
+              "oc_name": "5 Under",
+              "oc_rate": 1.17,
+              "oc_size": "5",
+              "oc_pointer": "746146992|15|12|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total 1",
+              "oc_name": "5.5 Under",
+              "oc_rate": 1.11,
+              "oc_size": "5.5",
+              "oc_pointer": "746146992|15|12|5.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total 1",
+              "oc_name": "6.5 Under",
+              "oc_rate": 1.02,
+              "oc_size": "6.5",
+              "oc_pointer": "746146992|15|12|6.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 8427,
+        "group_name": "Asian Team Total 1",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Asian Team Total 1",
+              "oc_name": "3.75 Over",
+              "oc_rate": 1.47,
+              "oc_size": "3.75",
+              "oc_pointer": "746146992|8427|7778|3.75",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Team Total 1",
+              "oc_name": "4.25 Over",
+              "oc_rate": 2.08,
+              "oc_size": "4.25",
+              "oc_pointer": "746146992|8427|7778|4.25",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Team Total 1",
+              "oc_name": "4.75 Over",
+              "oc_rate": 3.155,
+              "oc_size": "4.75",
+              "oc_pointer": "746146992|8427|7778|4.75",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Team Total 1",
+              "oc_name": "5.25 Over",
+              "oc_rate": 5.71,
+              "oc_size": "5.25",
+              "oc_pointer": "746146992|8427|7778|5.25",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Asian Team Total 1",
+              "oc_name": "3.75 Under",
+              "oc_rate": 2.68,
+              "oc_size": "3.75",
+              "oc_pointer": "746146992|8427|7779|3.75",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Team Total 1",
+              "oc_name": "4.25 Under",
+              "oc_rate": 1.75,
+              "oc_size": "4.25",
+              "oc_pointer": "746146992|8427|7779|4.25",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Team Total 1",
+              "oc_name": "4.75 Under",
+              "oc_rate": 1.36,
+              "oc_size": "4.75",
+              "oc_pointer": "746146992|8427|7779|4.75",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Asian Team Total 1",
+              "oc_name": "5.25 Under",
+              "oc_rate": 1.14,
+              "oc_size": "5.25",
+              "oc_pointer": "746146992|8427|7779|5.25",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 62,
+        "group_name": "Total 2",
+        "columns": 2,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Total 2",
+              "oc_name": "0.5 Over",
+              "oc_rate": 3.336,
+              "oc_size": "0.5",
+              "oc_pointer": "746146992|62|13|0.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total 2",
+              "oc_name": "1.5 Over",
+              "oc_rate": 15.0,
+              "oc_size": "1.5",
+              "oc_pointer": "746146992|62|13|1.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Total 2",
+              "oc_name": "0.5 Under",
+              "oc_rate": 1.33,
+              "oc_size": "0.5",
+              "oc_pointer": "746146992|62|14|0.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total 2",
+              "oc_name": "1.5 Under",
+              "oc_rate": 1.016,
+              "oc_size": "1.5",
+              "oc_pointer": "746146992|62|14|1.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 8429,
+        "group_name": "Asian Team Total 2",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Asian Team Total 2",
+              "oc_name": "0.75 Over",
+              "oc_rate": 5.57,
+              "oc_size": "0.75",
+              "oc_pointer": "746146992|8429|7780|0.75",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Asian Team Total 2",
+              "oc_name": "0.75 Under",
+              "oc_rate": 1.145,
+              "oc_size": "0.75",
+              "oc_pointer": "746146992|8429|7781|0.75",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 20,
+        "group_name": "Next Goal",
+        "columns": 3,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Next Goal",
+              "oc_name": "Team 1 To Score Goal 4",
+              "oc_rate": 1.504,
+              "oc_size": "4",
+              "oc_pointer": "746146992|20|388|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Next Goal",
+              "oc_name": "Team 1 To Score Goal 5",
+              "oc_rate": 2.33,
+              "oc_size": "5",
+              "oc_pointer": "746146992|20|388|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Next Goal",
+              "oc_name": "Team 1 To Score Goal 6",
+              "oc_rate": 4.75,
+              "oc_size": "6",
+              "oc_pointer": "746146992|20|388|6",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Next Goal",
+              "oc_name": "Team 2 To Score Goal 4",
+              "oc_rate": 5.51,
+              "oc_size": "4",
+              "oc_pointer": "746146992|20|389|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Next Goal",
+              "oc_name": "Team 2 To Score Goal 5",
+              "oc_rate": 9.99,
+              "oc_size": "5",
+              "oc_pointer": "746146992|20|389|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Next Goal",
+              "oc_name": "Team 2 To Score Goal 6",
+              "oc_rate": 19.0,
+              "oc_size": "6",
+              "oc_pointer": "746146992|20|389|6",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Next Goal",
+              "oc_name": "No Goal 4",
+              "oc_rate": 4.25,
+              "oc_size": "4",
+              "oc_pointer": "746146992|20|390|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Next Goal",
+              "oc_name": "No Goal 5",
+              "oc_rate": 1.81,
+              "oc_size": "5",
+              "oc_pointer": "746146992|20|390|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Next Goal",
+              "oc_name": "No Goal 6",
+              "oc_rate": 1.22,
+              "oc_size": "6",
+              "oc_pointer": "746146992|20|390|6",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 3559,
+        "group_name": "Next Goal, Handicap",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Next Goal, Handicap",
+              "oc_name": "Goal 4, Handicap 1 0",
+              "oc_rate": 1.152,
+              "oc_size": "4",
+              "oc_pointer": "746146992|3559|4962|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Next Goal, Handicap",
+              "oc_name": "Goal 5, Handicap 1 0",
+              "oc_rate": 1.152,
+              "oc_size": "5",
+              "oc_pointer": "746146992|3559|4962|5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Next Goal, Handicap",
+              "oc_name": "Goal 4, Handicap 2 0",
+              "oc_rate": 4.93,
+              "oc_size": "4",
+              "oc_pointer": "746146992|3559|4963|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Next Goal, Handicap",
+              "oc_name": "Goal 5, Handicap 2 0",
+              "oc_rate": 4.93,
+              "oc_size": "5",
+              "oc_pointer": "746146992|3559|4963|5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 3561,
+        "group_name": "Next Goal, Double Chance",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Next Goal, Double Chance",
+              "oc_name": "4 1X",
+              "oc_rate": 1.096,
+              "oc_size": "4",
+              "oc_pointer": "746146992|3561|4964|4",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Next Goal, Double Chance",
+              "oc_name": "4 12",
+              "oc_rate": 1.2,
+              "oc_size": "4",
+              "oc_pointer": "746146992|3561|4965|4",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Next Goal, Double Chance",
+              "oc_name": "4 2X",
+              "oc_rate": 2.53,
+              "oc_size": "4",
+              "oc_pointer": "746146992|3561|4966|4",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 136,
+        "group_name": "Correct Score",
+        "columns": 3,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "3-0",
+              "oc_rate": 4.25,
+              "oc_size": "3",
+              "oc_pointer": "746146992|136|731|3",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "3-1",
+              "oc_rate": 11.0,
+              "oc_size": "3.001",
+              "oc_pointer": "746146992|136|731|3.001",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "3-2",
+              "oc_rate": 41.0,
+              "oc_size": "3.002",
+              "oc_pointer": "746146992|136|731|3.002",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "4-0",
+              "oc_rate": 3.2,
+              "oc_size": "4",
+              "oc_pointer": "746146992|136|731|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "4-1",
+              "oc_rate": 9.5,
+              "oc_size": "4.001",
+              "oc_pointer": "746146992|136|731|4.001",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "4-2",
+              "oc_rate": 41.0,
+              "oc_size": "4.002",
+              "oc_pointer": "746146992|136|731|4.002",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "4-3",
+              "oc_rate": 201.0,
+              "oc_size": "4.003",
+              "oc_pointer": "746146992|136|731|4.003",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "5-0",
+              "oc_rate": 5.0,
+              "oc_size": "5",
+              "oc_pointer": "746146992|136|731|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "5-1",
+              "oc_rate": 15.0,
+              "oc_size": "5.001",
+              "oc_pointer": "746146992|136|731|5.001",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "5-2",
+              "oc_rate": 51.0,
+              "oc_size": "5.002",
+              "oc_pointer": "746146992|136|731|5.002",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "5-3",
+              "oc_rate": 301.0,
+              "oc_size": "5.003",
+              "oc_pointer": "746146992|136|731|5.003",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "6-0",
+              "oc_rate": 11.0,
+              "oc_size": "6",
+              "oc_pointer": "746146992|136|731|6",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "6-1",
+              "oc_rate": 29.0,
+              "oc_size": "6.001",
+              "oc_pointer": "746146992|136|731|6.001",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "6-2",
+              "oc_rate": 101.0,
+              "oc_size": "6.002",
+              "oc_pointer": "746146992|136|731|6.002",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "7-0",
+              "oc_rate": 29.0,
+              "oc_size": "7",
+              "oc_pointer": "746146992|136|731|7",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "7-1",
+              "oc_rate": 51.0,
+              "oc_size": "7.001",
+              "oc_pointer": "746146992|136|731|7.001",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "7-2",
+              "oc_rate": 251.0,
+              "oc_size": "7.002",
+              "oc_pointer": "746146992|136|731|7.002",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "8-0",
+              "oc_rate": 67.0,
+              "oc_size": "8",
+              "oc_pointer": "746146992|136|731|8",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "8-1",
+              "oc_rate": 151.0,
+              "oc_size": "8.001",
+              "oc_pointer": "746146992|136|731|8.001",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "9-0",
+              "oc_rate": 201.0,
+              "oc_size": "9",
+              "oc_pointer": "746146992|136|731|9",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Correct Score",
+              "oc_name": "3-3",
+              "oc_rate": 201.0,
+              "oc_size": "3.003",
+              "oc_pointer": "746146992|136|731|3.003",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 14,
+        "group_name": "Even/Odd",
+        "columns": 2,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Even/Odd",
+              "oc_name": "Yes",
+              "oc_rate": 1.925,
+              "oc_size": 0,
+              "oc_pointer": "746146992|14|182|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Even/Odd",
+              "oc_name": "No",
+              "oc_rate": 1.816,
+              "oc_size": 0,
+              "oc_pointer": "746146992|14|183|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 96,
+        "group_name": "Goal Up To Minute",
+        "columns": 2,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Goal Up To Minute",
+              "oc_name": "Goal 3.99999 Up To 60 Min - Yes",
+              "oc_rate": 5.76,
+              "oc_size": "60.004",
+              "oc_pointer": "746146992|96|812|60.004",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Goal Up To Minute",
+              "oc_name": "Goal 4 Up To 70 Min - Yes",
+              "oc_rate": 2.31,
+              "oc_size": "70.004",
+              "oc_pointer": "746146992|96|812|70.004",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Goal Up To Minute",
+              "oc_name": "Goal 4 Up To 80 Min - Yes",
+              "oc_rate": 1.615,
+              "oc_size": "80.004",
+              "oc_pointer": "746146992|96|812|80.004",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Goal Up To Minute",
+              "oc_name": "Goal 3.99999 Up To 60 Min - No",
+              "oc_rate": 1.14,
+              "oc_size": "60.004",
+              "oc_pointer": "746146992|96|813|60.004",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Goal Up To Minute",
+              "oc_name": "Goal 4 Up To 70 Min - No",
+              "oc_rate": 1.615,
+              "oc_size": "70.004",
+              "oc_pointer": "746146992|96|813|70.004",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Goal Up To Minute",
+              "oc_name": "Goal 4 Up To 80 Min - No",
+              "oc_rate": 2.31,
+              "oc_size": "80.004",
+              "oc_pointer": "746146992|96|813|80.004",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 2422,
+        "group_name": "Team 1 Scores In Halves",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Team 1 Scores In Halves",
+              "oc_name": "1st Half > 2nd Half",
+              "oc_rate": 3.22,
+              "oc_size": 0,
+              "oc_pointer": "746146992|2422|2808|0",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Team 1 Scores In Halves",
+              "oc_name": "1st Half = 2nd Half",
+              "oc_rate": 2.42,
+              "oc_size": 0,
+              "oc_pointer": "746146992|2422|2809|0",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Team 1 Scores In Halves",
+              "oc_name": "1st Half < 2nd Half",
+              "oc_rate": 2.63,
+              "oc_size": 0,
+              "oc_pointer": "746146992|2422|2810|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 27,
+        "group_name": "European Handicap",
+        "columns": 3,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "European Handicap",
+              "oc_name": "0:6 W1",
+              "oc_rate": 23.0,
+              "oc_size": "-6",
+              "oc_pointer": "746146992|27|424|-6",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "European Handicap",
+              "oc_name": "0:5 W1",
+              "oc_rate": 7.5,
+              "oc_size": "-5",
+              "oc_pointer": "746146992|27|424|-5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "European Handicap",
+              "oc_name": "0:4 W1",
+              "oc_rate": 3.1,
+              "oc_size": "-4",
+              "oc_pointer": "746146992|27|424|-4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "European Handicap",
+              "oc_name": "0:3 W1",
+              "oc_rate": 1.535,
+              "oc_size": "-3",
+              "oc_pointer": "746146992|27|424|-3",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "European Handicap",
+              "oc_name": "0:2 W1",
+              "oc_rate": 1.06,
+              "oc_size": "-2",
+              "oc_pointer": "746146992|27|424|-2",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "European Handicap",
+              "oc_name": "0:6 X",
+              "oc_rate": 11.0,
+              "oc_size": "-6",
+              "oc_pointer": "746146992|27|425|-6",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "European Handicap",
+              "oc_name": "0:5 X",
+              "oc_rate": 4.5,
+              "oc_size": "-5",
+              "oc_pointer": "746146992|27|425|-5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "European Handicap",
+              "oc_name": "0:4 X",
+              "oc_rate": 2.75,
+              "oc_size": "-4",
+              "oc_pointer": "746146992|27|425|-4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "European Handicap",
+              "oc_name": "0:3 X",
+              "oc_rate": 2.75,
+              "oc_size": "-3",
+              "oc_pointer": "746146992|27|425|-3",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "European Handicap",
+              "oc_name": "0:2 X",
+              "oc_rate": 10.0,
+              "oc_size": "-2",
+              "oc_pointer": "746146992|27|425|-2",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "European Handicap",
+              "oc_name": "0:6 W2",
+              "oc_rate": 1.07,
+              "oc_size": "-6",
+              "oc_pointer": "746146992|27|426|-6",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "European Handicap",
+              "oc_name": "0:5 W2",
+              "oc_rate": 1.3,
+              "oc_size": "-5",
+              "oc_pointer": "746146992|27|426|-5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "European Handicap",
+              "oc_name": "0:4 W2",
+              "oc_rate": 2.3,
+              "oc_size": "-4",
+              "oc_pointer": "746146992|27|426|-4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "European Handicap",
+              "oc_name": "0:3 W2",
+              "oc_rate": 9.5,
+              "oc_size": "-3",
+              "oc_pointer": "746146992|27|426|-3",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "European Handicap",
+              "oc_name": "0:2 W2",
+              "oc_rate": 41.0,
+              "oc_size": "-2",
+              "oc_pointer": "746146992|27|426|-2",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 87,
+        "group_name": "3Way Total",
+        "columns": 3,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "3Way Total",
+              "oc_name": "Over 4",
+              "oc_rate": 2.09,
+              "oc_size": "4",
+              "oc_pointer": "746146992|87|739|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "3Way Total",
+              "oc_name": "Over 5",
+              "oc_rate": 4.41,
+              "oc_size": "5",
+              "oc_pointer": "746146992|87|739|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "3Way Total",
+              "oc_name": "Over 6",
+              "oc_rate": 9.96,
+              "oc_size": "6",
+              "oc_pointer": "746146992|87|739|6",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "3Way Total",
+              "oc_name": "Over 7",
+              "oc_rate": 25.0,
+              "oc_size": "7",
+              "oc_pointer": "746146992|87|739|7",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "3Way Total",
+              "oc_name": "Exactly 4",
+              "oc_rate": 2.675,
+              "oc_size": "4",
+              "oc_pointer": "746146992|87|741|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "3Way Total",
+              "oc_name": "Exactly 5",
+              "oc_rate": 3.304,
+              "oc_size": "5",
+              "oc_pointer": "746146992|87|741|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "3Way Total",
+              "oc_name": "Exactly 6",
+              "oc_rate": 6.8,
+              "oc_size": "6",
+              "oc_pointer": "746146992|87|741|6",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "3Way Total",
+              "oc_name": "Exactly 7",
+              "oc_rate": 19.0,
+              "oc_size": "7",
+              "oc_pointer": "746146992|87|741|7",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "3Way Total",
+              "oc_name": "Under 4",
+              "oc_rate": 4.25,
+              "oc_size": "4",
+              "oc_pointer": "746146992|87|743|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "3Way Total",
+              "oc_name": "Under 5",
+              "oc_rate": 1.81,
+              "oc_size": "5",
+              "oc_pointer": "746146992|87|743|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "3Way Total",
+              "oc_name": "Under 6",
+              "oc_rate": 1.22,
+              "oc_size": "6",
+              "oc_pointer": "746146992|87|743|6",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "3Way Total",
+              "oc_name": "Under 7",
+              "oc_rate": 1.056,
+              "oc_size": "7",
+              "oc_pointer": "746146992|87|743|7",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 88,
+        "group_name": "Individual 3Way Total 1",
+        "columns": 3,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Individual 3Way Total 1",
+              "oc_name": "Over 4",
+              "oc_rate": 2.525,
+              "oc_size": "4",
+              "oc_pointer": "746146992|88|749|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Individual 3Way Total 1",
+              "oc_name": "Over 5",
+              "oc_rate": 6.6,
+              "oc_size": "5",
+              "oc_pointer": "746146992|88|749|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Individual 3Way Total 1",
+              "oc_name": "Over 6",
+              "oc_rate": 14.2,
+              "oc_size": "6",
+              "oc_pointer": "746146992|88|749|6",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Individual 3Way Total 1",
+              "oc_name": "Exactly 4",
+              "oc_rate": 2.55,
+              "oc_size": "4",
+              "oc_pointer": "746146992|88|751|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Individual 3Way Total 1",
+              "oc_name": "Exactly 5",
+              "oc_rate": 3.58,
+              "oc_size": "5",
+              "oc_pointer": "746146992|88|751|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Individual 3Way Total 1",
+              "oc_name": "Exactly 6",
+              "oc_rate": 10.6,
+              "oc_size": "6",
+              "oc_pointer": "746146992|88|751|6",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Individual 3Way Total 1",
+              "oc_name": "Under 4",
+              "oc_rate": 3.232,
+              "oc_size": "4",
+              "oc_pointer": "746146992|88|753|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Individual 3Way Total 1",
+              "oc_name": "Under 5",
+              "oc_rate": 1.525,
+              "oc_size": "5",
+              "oc_pointer": "746146992|88|753|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Individual 3Way Total 1",
+              "oc_name": "Under 6",
+              "oc_rate": 1.11,
+              "oc_size": "6",
+              "oc_pointer": "746146992|88|753|6",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 89,
+        "group_name": "Individual 3Way Total 2",
+        "columns": 3,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Individual 3Way Total 2",
+              "oc_name": "Over 1",
+              "oc_rate": 15.0,
+              "oc_size": "1",
+              "oc_pointer": "746146992|89|763|1",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Individual 3Way Total 2",
+              "oc_name": "Exact 1",
+              "oc_rate": 3.75,
+              "oc_size": "1",
+              "oc_pointer": "746146992|89|764|1",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Individual 3Way Total 2",
+              "oc_name": "Under 1",
+              "oc_rate": 1.33,
+              "oc_size": "1",
+              "oc_pointer": "746146992|89|765|1",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 91,
+        "group_name": "Individual Total 1 Even/Odd",
+        "columns": 2,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Individual Total 1 Even/Odd",
+              "oc_name": "Yes",
+              "oc_rate": 2.0,
+              "oc_size": 0,
+              "oc_pointer": "746146992|91|755|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Individual Total 1 Even/Odd",
+              "oc_name": "No",
+              "oc_rate": 1.73,
+              "oc_size": 0,
+              "oc_pointer": "746146992|91|757|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 92,
+        "group_name": "Individual Total 2 Even/Odd",
+        "columns": 2,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Individual Total 2 Even/Odd",
+              "oc_name": "Yes",
+              "oc_rate": 1.22,
+              "oc_size": 0,
+              "oc_pointer": "746146992|92|766|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Individual Total 2 Even/Odd",
+              "oc_name": "No",
+              "oc_rate": 3.8,
+              "oc_size": 0,
+              "oc_pointer": "746146992|92|767|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 154,
+        "group_name": "Last Goal",
+        "columns": 2,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Last Goal",
+              "oc_name": "Team 1",
+              "oc_rate": 1.125,
+              "oc_size": 0,
+              "oc_pointer": "746146992|154|475|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Last Goal",
+              "oc_name": "Team 2",
+              "oc_rate": 5.5,
+              "oc_size": 0,
+              "oc_pointer": "746146992|154|477|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 275,
+        "group_name": "Any Team To Win By",
+        "columns": 2,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Any Team To Win By",
+              "oc_name": "By 3 Goal(s) - Yes",
+              "oc_rate": 2.96,
+              "oc_size": "3",
+              "oc_pointer": "746146992|275|4850|3",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Any Team To Win By",
+              "oc_name": "By 4 Goal(s) - Yes",
+              "oc_rate": 2.76,
+              "oc_size": "4",
+              "oc_pointer": "746146992|275|4850|4",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Any Team To Win By",
+              "oc_name": "By 3 Goal(s) - No",
+              "oc_rate": 1.335,
+              "oc_size": "3",
+              "oc_pointer": "746146992|275|4851|3",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Any Team To Win By",
+              "oc_name": "By 4 Goal(s) - No",
+              "oc_rate": 1.38,
+              "oc_size": "4",
+              "oc_pointer": "746146992|275|4851|4",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 309,
+        "group_name": "Total In Minute",
+        "columns": 2,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Total In Minute",
+              "oc_name": "Over 3.5 In 60 Minute",
+              "oc_rate": 6.6,
+              "oc_size": "350.06",
+              "oc_pointer": "746146992|309|1197|350.06",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total In Minute",
+              "oc_name": "Over 3.5 In 75 Minute",
+              "oc_rate": 1.94,
+              "oc_size": "350.075",
+              "oc_pointer": "746146992|309|1197|350.075",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total In Minute",
+              "oc_name": "Over 3.5 In 85 Minute",
+              "oc_rate": 1.395,
+              "oc_size": "350.085",
+              "oc_pointer": "746146992|309|1197|350.085",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total In Minute",
+              "oc_name": "Over 4 In 75 Minute",
+              "oc_rate": 4.2,
+              "oc_size": "400.075",
+              "oc_pointer": "746146992|309|1197|400.075",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total In Minute",
+              "oc_name": "Over 4.5 In 75 Minute",
+              "oc_rate": 5.9,
+              "oc_size": "450.075",
+              "oc_pointer": "746146992|309|1197|450.075",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total In Minute",
+              "oc_name": "Over 4.5 In 85 Minute",
+              "oc_rate": 2.64,
+              "oc_size": "450.085",
+              "oc_pointer": "746146992|309|1197|450.085",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total In Minute",
+              "oc_name": "Over 5.5 In 85 Minute",
+              "oc_rate": 6.29,
+              "oc_size": "550.085",
+              "oc_pointer": "746146992|309|1197|550.085",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Total In Minute",
+              "oc_name": "Under 3.5 In 60 Minute",
+              "oc_rate": 1.07,
+              "oc_size": "350.06",
+              "oc_pointer": "746146992|309|1198|350.06",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total In Minute",
+              "oc_name": "Under 3.5 In 75 Minute",
+              "oc_rate": 1.75,
+              "oc_size": "350.075",
+              "oc_pointer": "746146992|309|1198|350.075",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total In Minute",
+              "oc_name": "Under 3.5 In 85 Minute",
+              "oc_rate": 2.825,
+              "oc_size": "350.085",
+              "oc_pointer": "746146992|309|1198|350.085",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total In Minute",
+              "oc_name": "Under 4 In 75 Minute",
+              "oc_rate": 1.17,
+              "oc_size": "400.075",
+              "oc_pointer": "746146992|309|1198|400.075",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total In Minute",
+              "oc_name": "Under 4.5 In 75 Minute",
+              "oc_rate": 1.075,
+              "oc_size": "450.075",
+              "oc_pointer": "746146992|309|1198|450.075",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total In Minute",
+              "oc_name": "Under 4.5 In 85 Minute",
+              "oc_rate": 1.45,
+              "oc_size": "450.085",
+              "oc_pointer": "746146992|309|1198|450.085",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total In Minute",
+              "oc_name": "Under 5.5 In 85 Minute",
+              "oc_rate": 1.1,
+              "oc_size": "550.085",
+              "oc_pointer": "746146992|309|1198|550.085",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 852,
+        "group_name": "Win To Nil",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Win To Nil",
+              "oc_name": "Yes",
+              "oc_rate": 1.27,
+              "oc_size": 0,
+              "oc_pointer": "746146992|852|1808|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Win To Nil",
+              "oc_name": "No",
+              "oc_rate": 3.4,
+              "oc_size": 0,
+              "oc_pointer": "746146992|852|1809|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 854,
+        "group_name": "Both Teams To Score + Total",
+        "columns": 2,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Both Teams To Score + Total",
+              "oc_name": "Both To Score + TO 3.5 - Yes",
+              "oc_rate": 3.64,
+              "oc_size": "3.5",
+              "oc_pointer": "746146992|854|1814|3.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Both Teams To Score + Total",
+              "oc_name": "Both To Score + TO 4.5 - Yes",
+              "oc_rate": 4.75,
+              "oc_size": "4.5",
+              "oc_pointer": "746146992|854|1814|4.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Both Teams To Score + Total",
+              "oc_name": "Both To Score + TU 5.5 - Yes",
+              "oc_rate": 5.75,
+              "oc_size": "5.5",
+              "oc_pointer": "746146992|854|1812|5.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Both Teams To Score + Total",
+              "oc_name": "Both To Score + TO 5.5 - Yes",
+              "oc_rate": 8.0,
+              "oc_size": "5.5",
+              "oc_pointer": "746146992|854|1814|5.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Both Teams To Score + Total",
+              "oc_name": "Both To Score + TU 6.5 - Yes",
+              "oc_rate": 4.3,
+              "oc_size": "6.5",
+              "oc_pointer": "746146992|854|1812|6.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Both Teams To Score + Total",
+              "oc_name": "Both To Score + TU 7.5 - Yes",
+              "oc_rate": 3.84,
+              "oc_size": "7.5",
+              "oc_pointer": "746146992|854|1812|7.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Both Teams To Score + Total",
+              "oc_name": "Both To Score + TO 3.5 - No",
+              "oc_rate": 1.23,
+              "oc_size": "3.5",
+              "oc_pointer": "746146992|854|1815|3.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Both Teams To Score + Total",
+              "oc_name": "Both To Score + TO 4.5 - No",
+              "oc_rate": 1.14,
+              "oc_size": "4.5",
+              "oc_pointer": "746146992|854|1815|4.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Both Teams To Score + Total",
+              "oc_name": "Both To Score + TU 5.5 - No",
+              "oc_rate": 1.096,
+              "oc_size": "5.5",
+              "oc_pointer": "746146992|854|1813|5.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Both Teams To Score + Total",
+              "oc_name": "Both To Score + TO 5.5 - No",
+              "oc_rate": 1.04,
+              "oc_size": "5.5",
+              "oc_pointer": "746146992|854|1815|5.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Both Teams To Score + Total",
+              "oc_name": "Both To Score + TU 6.5 - No",
+              "oc_rate": 1.17,
+              "oc_size": "6.5",
+              "oc_pointer": "746146992|854|1813|6.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Both Teams To Score + Total",
+              "oc_name": "Both To Score + TU 7.5 - No",
+              "oc_rate": 1.21,
+              "oc_size": "7.5",
+              "oc_pointer": "746146992|854|1813|7.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 864,
+        "group_name": "Win By",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Win By",
+              "oc_name": "W1 By 3 Goals - Yes",
+              "oc_rate": 2.96,
+              "oc_size": "3",
+              "oc_pointer": "746146992|864|1828|3",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Win By",
+              "oc_name": "W1 By 4 Goals - Yes",
+              "oc_rate": 2.76,
+              "oc_size": "4",
+              "oc_pointer": "746146992|864|1828|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Win By",
+              "oc_name": "W1 By 5 Goals - Yes",
+              "oc_rate": 4.5,
+              "oc_size": "5",
+              "oc_pointer": "746146992|864|1828|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Win By",
+              "oc_name": "W1 By 6 Or More",
+              "oc_rate": 9.35,
+              "oc_size": "6",
+              "oc_pointer": "746146992|864|2834|6",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Win By",
+              "oc_name": "W1 By 3 Goals - No",
+              "oc_rate": 1.335,
+              "oc_size": "3",
+              "oc_pointer": "746146992|864|1829|3",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Win By",
+              "oc_name": "W1 By 4 Goals - No",
+              "oc_rate": 1.38,
+              "oc_size": "4",
+              "oc_pointer": "746146992|864|1829|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Win By",
+              "oc_name": "W1 By 5 Goals - No",
+              "oc_rate": 1.155,
+              "oc_size": "5",
+              "oc_pointer": "746146992|864|1829|5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 2444,
+        "group_name": "Total And Both To Score",
+        "columns": 2,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Total And Both To Score",
+              "oc_name": "Both To Score + TO 3.5 - Yes",
+              "oc_rate": 3.4,
+              "oc_size": "3.5",
+              "oc_pointer": "746146992|2444|3523|3.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total And Both To Score",
+              "oc_name": "Both To Score + TO 4.5 - Yes",
+              "oc_rate": 4.4,
+              "oc_size": "4.5",
+              "oc_pointer": "746146992|2444|3523|4.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total And Both To Score",
+              "oc_name": "Both To Score + TU 4.5 - Yes",
+              "oc_rate": 9.5,
+              "oc_size": "4.5",
+              "oc_pointer": "746146992|2444|3525|4.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Total And Both To Score",
+              "oc_name": "Both To Score + TO 3.5 - No",
+              "oc_rate": 1.27,
+              "oc_size": "3.5",
+              "oc_pointer": "746146992|2444|3524|3.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total And Both To Score",
+              "oc_name": "Both To Score + TO 4.5 - No",
+              "oc_rate": 1.17,
+              "oc_size": "4.5",
+              "oc_pointer": "746146992|2444|3524|4.5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Total And Both To Score",
+              "oc_name": "Both To Score + TU 4.5 - No",
+              "oc_rate": 1.03,
+              "oc_size": "4.5",
+              "oc_pointer": "746146992|2444|3526|4.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 2866,
+        "group_name": "Team 1 Win To Nil",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Team 1 Win To Nil",
+              "oc_name": "Yes",
+              "oc_rate": 1.27,
+              "oc_size": 0,
+              "oc_pointer": "746146992|2866|200|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Team 1 Win To Nil",
+              "oc_name": "No",
+              "oc_rate": 3.4,
+              "oc_size": 0,
+              "oc_pointer": "746146992|2866|205|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 2880,
+        "group_name": "Team 1 To Score Goals In A Row",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Team 1 To Score Goals In A Row",
+              "oc_name": "4 Or More Goals In A Row - Yes",
+              "oc_rate": 1.45,
+              "oc_size": "4",
+              "oc_pointer": "746146992|2880|1125|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Team 1 To Score Goals In A Row",
+              "oc_name": "5 Or More Goals In A Row - Yes",
+              "oc_rate": 2.93,
+              "oc_size": "5",
+              "oc_pointer": "746146992|2880|1125|5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Team 1 To Score Goals In A Row",
+              "oc_name": "4 Or More Goals In A Row - No",
+              "oc_rate": 2.51,
+              "oc_size": "4",
+              "oc_pointer": "746146992|2880|1126|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Team 1 To Score Goals In A Row",
+              "oc_name": "5 Or More Goals In A Row - No",
+              "oc_rate": 1.34,
+              "oc_size": "5",
+              "oc_pointer": "746146992|2880|1126|5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 3309,
+        "group_name": "Individual Total 1 Exact Number Of Goals",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Individual Total 1 Exact Number Of Goals",
+              "oc_name": "3 Or Fewer",
+              "oc_rate": 3.232,
+              "oc_size": "3",
+              "oc_pointer": "746146992|3309|4554|3",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Individual Total 1 Exact Number Of Goals",
+              "oc_name": "4 Or Fewer",
+              "oc_rate": 1.525,
+              "oc_size": "4",
+              "oc_pointer": "746146992|3309|4554|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Individual Total 1 Exact Number Of Goals",
+              "oc_name": "4",
+              "oc_rate": 2.54,
+              "oc_size": "4",
+              "oc_pointer": "746146992|3309|4555|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Individual Total 1 Exact Number Of Goals",
+              "oc_name": "5",
+              "oc_rate": 3.96,
+              "oc_size": "5",
+              "oc_pointer": "746146992|3309|4555|5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Individual Total 1 Exact Number Of Goals",
+              "oc_name": "Team 1 Total - 5 Or More Goals",
+              "oc_rate": 2.525,
+              "oc_size": "5",
+              "oc_pointer": "746146992|3309|4556|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Individual Total 1 Exact Number Of Goals",
+              "oc_name": "Team 1 Total - 6 Or More Goals",
+              "oc_rate": 6.6,
+              "oc_size": "6",
+              "oc_pointer": "746146992|3309|4556|6",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 3311,
+        "group_name": "Individual Total 2 Exact Number Of Goals",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Individual Total 2 Exact Number Of Goals",
+              "oc_name": "0",
+              "oc_rate": 1.25,
+              "oc_size": 0,
+              "oc_pointer": "746146992|3311|4563|0",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Individual Total 2 Exact Number Of Goals",
+              "oc_name": "1",
+              "oc_rate": 3.75,
+              "oc_size": "1",
+              "oc_pointer": "746146992|3311|4563|1",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Individual Total 2 Exact Number Of Goals",
+              "oc_name": "2",
+              "oc_rate": 19.0,
+              "oc_size": "2",
+              "oc_pointer": "746146992|3311|4563|2",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Individual Total 2 Exact Number Of Goals",
+              "oc_name": "Team 2 Total - 2 Or More Goals",
+              "oc_rate": 15.0,
+              "oc_size": "2",
+              "oc_pointer": "746146992|3311|4564|2",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Individual Total 2 Exact Number Of Goals",
+              "oc_name": "Team 2 Total - 3 Or More Goals",
+              "oc_rate": 101.0,
+              "oc_size": "3",
+              "oc_pointer": "746146992|3311|4564|3",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 3493,
+        "group_name": "Goals In A Row By A Single Team",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Goals In A Row By A Single Team",
+              "oc_name": "4 Or More - Yes",
+              "oc_rate": 1.45,
+              "oc_size": "4",
+              "oc_pointer": "746146992|3493|4852|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Goals In A Row By A Single Team",
+              "oc_name": "5 Or More - Yes",
+              "oc_rate": 2.93,
+              "oc_size": "5",
+              "oc_pointer": "746146992|3493|4852|5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Goals In A Row By A Single Team",
+              "oc_name": "4 Or More - No",
+              "oc_rate": 2.51,
+              "oc_size": "4",
+              "oc_pointer": "746146992|3493|4853|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Goals In A Row By A Single Team",
+              "oc_name": "5 Or More - No",
+              "oc_rate": 1.34,
+              "oc_size": "5",
+              "oc_pointer": "746146992|3493|4853|5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 7961,
+        "group_name": "Multi Goal",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Multi Goal",
+              "oc_name": "Multi Goal 3-4",
+              "oc_rate": 1.705,
+              "oc_size": "3.004",
+              "oc_pointer": "746146992|7961|6947|3.004",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Multi Goal",
+              "oc_name": "Multi Goal 3-5",
+              "oc_rate": 1.175,
+              "oc_size": "3.005",
+              "oc_pointer": "746146992|7961|6947|3.005",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Multi Goal",
+              "oc_name": "Multi Goal 4-5",
+              "oc_rate": 1.62,
+              "oc_size": "4.005",
+              "oc_pointer": "746146992|7961|6947|4.005",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 8801,
+        "group_name": "Team 1, Multi Goal",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Team 1, Multi Goal",
+              "oc_name": "3-4",
+              "oc_rate": 1.45,
+              "oc_size": "3.004",
+              "oc_pointer": "746146992|8801|8535|3.004",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Team 1, Multi Goal",
+              "oc_name": "3-5",
+              "oc_rate": 1.085,
+              "oc_size": "3.005",
+              "oc_pointer": "746146992|8801|8535|3.005",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Team 1, Multi Goal",
+              "oc_name": "4-5",
+              "oc_rate": 1.64,
+              "oc_size": "4.005",
+              "oc_pointer": "746146992|8801|8535|4.005",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 8931,
+        "group_name": "At Least One Team Will Score",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "At Least One Team Will Score",
+              "oc_name": "Over 3.5 - Yes",
+              "oc_rate": 1.365,
+              "oc_size": "3.5",
+              "oc_pointer": "746146992|8931|8788|3.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "At Least One Team Will Score",
+              "oc_name": "Over 3.5 - No",
+              "oc_rate": 3.125,
+              "oc_size": "3.5",
+              "oc_pointer": "746146992|8931|8789|3.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 9313,
+        "group_name": "Team 1 To Score Specified Goal + Outcome",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Team 1 To Score Specified Goal + Outcome",
+              "oc_name": "Goal Number 4 + W1 - Yes",
+              "oc_rate": 1.48,
+              "oc_size": "4",
+              "oc_pointer": "746146992|9313|9918|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Team 1 To Score Specified Goal + Outcome",
+              "oc_name": "Goal Number 4 + W1 - No",
+              "oc_rate": 2.5,
+              "oc_size": "4",
+              "oc_pointer": "746146992|9313|9919|4",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 9314,
+        "group_name": "Team 2 To Score Specified Goal + Outcome",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Team 2 To Score Specified Goal + Outcome",
+              "oc_name": "Goal Number 4 + W1 - Yes",
+              "oc_rate": 5.3,
+              "oc_size": "4",
+              "oc_pointer": "746146992|9314|9924|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Team 2 To Score Specified Goal + Outcome",
+              "oc_name": "Goal Number 4 + W1 - No",
+              "oc_rate": 1.12,
+              "oc_size": "4",
+              "oc_pointer": "746146992|9314|9925|4",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 9315,
+        "group_name": "Team 1 To Score Specified Goal + Double Chance",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Team 1 To Score Specified Goal + Double Chance",
+              "oc_name": "Goal Number 4 + 1X - Yes",
+              "oc_rate": 1.48,
+              "oc_size": "4",
+              "oc_pointer": "746146992|9315|9930|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Team 1 To Score Specified Goal + Double Chance",
+              "oc_name": "Goal Number 4 + 1X - No",
+              "oc_rate": 2.5,
+              "oc_size": "4",
+              "oc_pointer": "746146992|9315|9931|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Team 1 To Score Specified Goal + Double Chance",
+              "oc_name": "Goal Number 4 + 12 - Yes",
+              "oc_rate": 1.48,
+              "oc_size": "4",
+              "oc_pointer": "746146992|9315|9932|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Team 1 To Score Specified Goal + Double Chance",
+              "oc_name": "Goal Number 4 + 12 - No",
+              "oc_rate": 2.5,
+              "oc_size": "4",
+              "oc_pointer": "746146992|9315|9933|4",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 9316,
+        "group_name": "Team 2 To Score Specified Goal + Double Chance",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Team 2 To Score Specified Goal + Double Chance",
+              "oc_name": "Goal Number 4 + 1X - Yes",
+              "oc_rate": 5.3,
+              "oc_size": "4",
+              "oc_pointer": "746146992|9316|9936|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Team 2 To Score Specified Goal + Double Chance",
+              "oc_name": "Goal Number 4 + 1X - No",
+              "oc_rate": 1.12,
+              "oc_size": "4",
+              "oc_pointer": "746146992|9316|9937|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Team 2 To Score Specified Goal + Double Chance",
+              "oc_name": "Goal Number 4 + 12 - Yes",
+              "oc_rate": 5.3,
+              "oc_size": "4",
+              "oc_pointer": "746146992|9316|9938|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Team 2 To Score Specified Goal + Double Chance",
+              "oc_name": "Goal Number 4 + 12 - No",
+              "oc_rate": 1.12,
+              "oc_size": "4",
+              "oc_pointer": "746146992|9316|9939|4",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 9322,
+        "group_name": "Both Teams To Score + Double Chance",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Both Teams To Score + Double Chance",
+              "oc_name": "At Least One Team Not To Score And 1X - Yes",
+              "oc_rate": 1.27,
+              "oc_size": 0,
+              "oc_pointer": "746146992|9322|9954|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Both Teams To Score + Double Chance",
+              "oc_name": "At Least One Team Not To Score And 1X - No",
+              "oc_rate": 3.4,
+              "oc_size": 0,
+              "oc_pointer": "746146992|9322|9955|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 9408,
+        "group_name": "Score After Four Goals",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Score After Four Goals",
+              "oc_name": "4:0",
+              "oc_rate": 1.48,
+              "oc_size": 0,
+              "oc_pointer": "746146992|9408|10226|0",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Score After Four Goals",
+              "oc_name": "3:1",
+              "oc_rate": 6.0,
+              "oc_size": 0,
+              "oc_pointer": "746146992|9408|10227|0",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Score After Four Goals",
+              "oc_name": "Four Goals Will Not Be Scored",
+              "oc_rate": 4.2,
+              "oc_size": 0,
+              "oc_pointer": "746146992|9408|10231|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 9429,
+        "group_name": "Double Chance + Team 2 Total",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Double Chance + Team 2 Total",
+              "oc_name": "1X And Over 0.5 - Yes",
+              "oc_rate": 3.4,
+              "oc_size": "0.5",
+              "oc_pointer": "746146992|9429|10370|0.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Double Chance + Team 2 Total",
+              "oc_name": "1X And Over 0.5 - No",
+              "oc_rate": 1.27,
+              "oc_size": "0.5",
+              "oc_pointer": "746146992|9429|10371|0.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 9429,
+        "group_name": "Double Chance + Team 2 Total",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Double Chance + Team 2 Total",
+              "oc_name": "12 And Over 0.5 - Yes",
+              "oc_rate": 3.45,
+              "oc_size": "0.5",
+              "oc_pointer": "746146992|9429|10386|0.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Double Chance + Team 2 Total",
+              "oc_name": "12 And Over 0.5 - No",
+              "oc_rate": 1.27,
+              "oc_size": "0.5",
+              "oc_pointer": "746146992|9429|10387|0.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 9432,
+        "group_name": "W1 + Team 2 Total",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "W1 + Team 2 Total",
+              "oc_name": "W1 And Over 0.5 - Yes",
+              "oc_rate": 3.45,
+              "oc_size": "0.5",
+              "oc_pointer": "746146992|9432|10358|0.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "W1 + Team 2 Total",
+              "oc_name": "W1 And Over 0.5 - No",
+              "oc_rate": 1.27,
+              "oc_size": "0.5",
+              "oc_pointer": "746146992|9432|10359|0.5",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 9930,
+        "group_name": "Team 2, All Goals To Be Scored On One Side Of The Field",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Team 2, All Goals To Be Scored On One Side Of The Field",
+              "oc_name": "Team 2, All Goals To Be Scored In One Side Of The Field - Yes",
+              "oc_rate": 3.4,
+              "oc_size": 0,
+              "oc_pointer": "746146992|9930|12145|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Team 2, All Goals To Be Scored On One Side Of The Field",
+              "oc_name": "Team 2, All Goals To Be Scored In One Side Of The Field - No",
+              "oc_rate": 1.27,
+              "oc_size": 0,
+              "oc_pointer": "746146992|9930|12146|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 9939,
+        "group_name": "Exact Number",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Exact Number",
+              "oc_name": "3 Or Less - Yes",
+              "oc_rate": 3.9,
+              "oc_size": "3",
+              "oc_pointer": "746146992|9939|4546|3",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Exact Number",
+              "oc_name": "4 Or Less - Yes",
+              "oc_rate": 1.735,
+              "oc_size": "4",
+              "oc_pointer": "746146992|9939|4546|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Exact Number",
+              "oc_name": "4 Or Less - No",
+              "oc_rate": 2.104,
+              "oc_size": "4",
+              "oc_pointer": "746146992|9939|4547|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Exact Number",
+              "oc_name": "4 - Yes",
+              "oc_rate": 2.675,
+              "oc_size": "4",
+              "oc_pointer": "746146992|9939|4548|4",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Exact Number",
+              "oc_name": "5 - Yes",
+              "oc_rate": 3.304,
+              "oc_size": "5",
+              "oc_pointer": "746146992|9939|4548|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Exact Number",
+              "oc_name": "5 - No",
+              "oc_rate": 1.205,
+              "oc_size": "5",
+              "oc_pointer": "746146992|9939|4549|5",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Exact Number",
+              "oc_name": "6 - Yes",
+              "oc_rate": 6.8,
+              "oc_size": "6",
+              "oc_pointer": "746146992|9939|4548|6",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Exact Number",
+              "oc_name": "6 Or More - Yes",
+              "oc_rate": 4.48,
+              "oc_size": "6",
+              "oc_pointer": "746146992|9939|4552|6",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Exact Number",
+              "oc_name": "6 Or More - No",
+              "oc_rate": 1.205,
+              "oc_size": "6",
+              "oc_pointer": "746146992|9939|4553|6",
+              "oc_block": false,
+              "op_id": null
+            },
+            {
+              "oc_group_name": "Exact Number",
+              "oc_name": "7 Or More - Yes",
+              "oc_rate": 12.7,
+              "oc_size": "7",
+              "oc_pointer": "746146992|9939|4552|7",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      },
+      {
+        "group_id": 10046,
+        "group_name": "Team 1 To Win Both Halves",
+        "columns": 1,
+        "oc_list": [
+          [
+            {
+              "oc_group_name": "Team 1 To Win Both Halves",
+              "oc_name": "Yes",
+              "oc_rate": 1.05,
+              "oc_size": 0,
+              "oc_pointer": "746146992|10046|508|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ],
+          [
+            {
+              "oc_group_name": "Team 1 To Win Both Halves",
+              "oc_name": "No",
+              "oc_rate": 8.0,
+              "oc_size": 0,
+              "oc_pointer": "746146992|10046|509|0",
+              "oc_block": false,
+              "op_id": null
+            }
+          ]
+        ]
+      }
+    ],
+    "sport_id": 1,
+    "sport_name": "Football",
+    "timer": 3376,
+    "score_full": "3:0",
+    "score_period": "2:0;1:0",
+    "stat_list": [
+      {
+        "id": 93,
+        "name": "xG",
+        "opp1": "1.45",
+        "opp2": "0.03"
+      },
+      {
+        "id": 45,
+        "name": "Attacks",
+        "opp1": "61",
+        "opp2": "54"
+      },
+      {
+        "id": 58,
+        "name": "Dangerous attacks",
+        "opp1": "44",
+        "opp2": "19"
+      },
+      {
+        "id": 29,
+        "name": "Possession %",
+        "opp1": "65",
+        "opp2": "35"
+      },
+      {
+        "id": 59,
+        "name": "Shots on target",
+        "opp1": "4",
+        "opp2": "0"
+      },
+      {
+        "id": 60,
+        "name": "Shots off target",
+        "opp1": "8",
+        "opp2": "2"
+      },
+      {
+        "id": 26,
+        "name": "Yellow cards",
+        "opp1": "1",
+        "opp2": "1"
+      },
+      {
+        "id": 47,
+        "name": "Saves",
+        "opp1": "0",
+        "opp2": "1"
+      },
+      {
+        "id": 70,
+        "name": "Corner",
+        "opp1": "6",
+        "opp2": "2"
+      },
+      {
+        "id": 71,
+        "name": "Red card",
+        "opp1": "0",
+        "opp2": "0"
+      },
+      {
+        "id": 72,
+        "name": "Penalty",
+        "opp1": "0",
+        "opp2": "0"
+      },
+      {
+        "id": 92,
+        "name": "Substitutions",
+        "opp1": "0",
+        "opp2": "0"
+      },
+      {
+        "id": 94,
+        "name": "Key Passes",
+        "opp1": "11",
+        "opp2": "2"
+      },
+      {
+        "id": 95,
+        "name": "Passing Accuracy %",
+        "opp1": "91",
+        "opp2": "78"
+      },
+      {
+        "id": 96,
+        "name": "Crosses",
+        "opp1": "10",
+        "opp2": "4"
+      }
+    ],
+    "extra_time": "",
+    "finale": false,
+    "pitch": "",
+    "sub_games": [
+      {
+        "game_id": 746147013,
+        "game_num": 150080,
+        "game_name": "2nd half"
+      },
+      {
+        "game_id": 746147010,
+        "game_num": 205978,
+        "game_name": "Corners"
+      },
+      {
+        "game_id": 746147037,
+        "game_num": 207011,
+        "game_name": "Quick events"
+      },
+      {
+        "game_id": 746147314,
+        "game_num": 178621,
+        "game_name": "Yellow Cards"
+      },
+      {
+        "game_id": 746147316,
+        "game_num": 158699,
+        "game_name": "Shots On Target"
+      },
+      {
+        "game_id": 746147317,
+        "game_num": 158756,
+        "game_name": "Offsides"
+      },
+      {
+        "game_id": 746147315,
+        "game_num": 244026,
+        "game_name": "Fouls"
+      },
+      {
+        "game_id": 746147049,
+        "game_num": 279613,
+        "game_name": "Result + Total"
+      },
+      {
+        "game_id": 746147319,
+        "game_num": 182260,
+        "game_name": "Posts and Crossbars"
+      },
+      {
+        "game_id": 746147587,
+        "game_num": 176462,
+        "game_name": "Accumulator Outcomes"
+      },
+      {
+        "game_id": 746147014,
+        "game_num": 161054,
+        "game_name": "Players' stats"
+      },
+      {
+        "game_id": 746147310,
+        "game_num": 191269,
+        "game_name": "First To Happen"
+      },
+      {
+        "game_id": 746147016,
+        "game_num": 158728,
+        "game_name": "Shots Towards The Goal"
+      }
+    ],
+    "event_plan": [],
+    "period_name": "period",
+    "game_desk": "",
+    "score_extra": "",
+    "game_dop_name": "",
+    "va": null,
+    "vi": null,
+    "zp": 746146992,
+    "game_plan": null,
+    "stat_list_extra": []
+  }
+}
